@@ -25,16 +25,15 @@ final class BasicController {
     // MARK: - Life cycle
     func test(request: HTTPRequest, response: HTTPResponse) {
         let message: String = """
-        ------------------
         received request:
         method=\(request.method)
         path=\(request.path)
-        queryParams=\(request.queryParams)
+        params=\(request.params())
+        post_params=\(request.postParams)
         remote=\(request.remoteAddress.host):\(request.remoteAddress.port)
-        ------------------
         """
-        Logger.network.message().object(message)
-        
+        Logger.network.message(message)
+
         do {
             let result: [String: Any] = [
                 "status": "Ok",
@@ -55,16 +54,15 @@ final class BasicController {
     
     func all(request: HTTPRequest, response: HTTPResponse) {
         let message: String = """
-        ------------------
         received request:
         method=\(request.method)
         path=\(request.path)
-        queryParams=\(request.queryParams)
+        params=\(request.params())
+        post_params=\(request.postParams)
         remote=\(request.remoteAddress.host):\(request.remoteAddress.port)
-        ------------------
         """
-        Logger.network.message().object(message)
-        
+        Logger.network.message(message)
+
         do {
             let json: String = try ShoppingItem.allAsString()
             response.setBody(string: json)
@@ -79,15 +77,14 @@ final class BasicController {
     
     func create(request: HTTPRequest, response: HTTPResponse) {
         let message: String = """
-        ------------------
         received request:
         method=\(request.method)
         path=\(request.path)
-        queryParams=\(request.queryParams)
+        params=\(request.params())
+        post_params=\(request.postParams)
         remote=\(request.remoteAddress.host):\(request.remoteAddress.port)
-        ------------------
         """
-        Logger.network.message().object(message)
+        Logger.network.message(message)
         
         do {
             let json = try ShoppingItem.create(withJSONRequest: request.postBodyString)
