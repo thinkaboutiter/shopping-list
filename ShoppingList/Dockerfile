@@ -16,11 +16,17 @@ mc
 EXPOSE 8080
 
 # Copy sources
-WORKDIR /root/ShoppingList/Sources
+WORKDIR /opt/ShoppingList/Sources
 COPY Sources/ .
 
-WORKDIR /root/ShoppingList
+WORKDIR /opt/ShoppingList
 COPY Package.swift .
+
+# # Attach stdout to log file
+# COPY create-logs-directory.sh .
+# RUN chmod +x ./create-logs-directory.sh \
+# && bash -c "./create-logs-directory.sh" \
+# && ln -sf /dev/stdout /opt/ShoppingList/Sources/ShoppingList/logs/application.log
 
 # Release build
 # RUN swift build -c release -Xswiftc -static-stdlib
