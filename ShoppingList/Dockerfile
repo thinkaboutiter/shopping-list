@@ -22,10 +22,23 @@ COPY Sources/ .
 WORKDIR /opt/ShoppingList
 COPY Package.swift .
 
-# # Attach stdout to log file
+# Attach stdout to log file
+# script attemt
 # COPY create-logs-directory.sh .
 # RUN chmod +x ./create-logs-directory.sh \
 # && bash -c "./create-logs-directory.sh" \
+# && ln -sf /dev/stdout /opt/ShoppingList/Sources/ShoppingList/logs/application.log
+
+# inline attemt 
+# RUN #!/bin/bash \
+# LOGS_DIR="/opt/ShoppingList/Sources/ShoppingList/logs" \
+# if [ ! -d ${LOGS_DIR} ]; then \
+# mkdir ${LOGS_DIR} \
+# fi \
+# FILE_NAME="application.log" \
+# if [ ! -f "${LOGS_DIR}/${FILE_NAME}" ]; then \
+# touch "${LOGS_DIR}/${FILE_NAME}" \
+# fi \
 # && ln -sf /dev/stdout /opt/ShoppingList/Sources/ShoppingList/logs/application.log
 
 # Release build
