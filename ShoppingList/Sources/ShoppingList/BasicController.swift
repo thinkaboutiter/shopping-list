@@ -33,8 +33,7 @@ final class BasicController {
         remote=\(request.remoteAddress.host):\(request.remoteAddress.port)
         ------------------
         """
-//        Logger.network.message().object(message)
-        print("\(message)")
+        Logger.network.message().object(message)
         
         do {
             let result: [String: Any] = [
@@ -64,8 +63,7 @@ final class BasicController {
         remote=\(request.remoteAddress.host):\(request.remoteAddress.port)
         ------------------
         """
-//        Logger.network.message().object(message)
-        print("\(message)")
+        Logger.network.message().object(message)
         
         do {
             let json: String = try ShoppingItem.allAsString()
@@ -89,8 +87,7 @@ final class BasicController {
         remote=\(request.remoteAddress.host):\(request.remoteAddress.port)
         ------------------
         """
-//        Logger.network.message().object(message)
-        print("\(message)")
+        Logger.network.message().object(message)
         
         do {
             let json = try ShoppingItem.create(withJSONRequest: request.postBodyString)
