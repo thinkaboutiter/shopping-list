@@ -16,10 +16,10 @@ mc
 EXPOSE 8080
 
 # Copy sources
-WORKDIR /root/ShoppingList/Sources
+WORKDIR /opt/ShoppingList/Sources
 COPY Sources/ .
 
-WORKDIR /root/ShoppingList
+WORKDIR /opt/ShoppingList
 COPY Package.swift .
 
 # Release build
