@@ -30,10 +30,10 @@
       },
       {
         "package": "COpenSSL",
-        "repositoryURL": "https://github.com/PerfectlySoft/Perfect-COpenSSL.git",
+        "repositoryURL": "https://github.com/PerfectlySoft/Perfect-COpenSSL-Linux.git",
         "state": {
           "branch": null,
-          "revision": "25b0226e808c11111428b5b2c1618bfd84c59130",
+          "revision": "413c7a3c42233fb96115f1b59745ddf21cb52733",
           "version": "3.2.0"
         }
       },
@@ -92,6 +92,15 @@
         }
       },
       {
+        "package": "LinuxBridge",
+        "repositoryURL": "https://github.com/PerfectlySoft/Perfect-LinuxBridge.git",
+        "state": {
+          "branch": null,
+          "revision": "d6e64c48e6b06b6f1ab7ab9338280447baa8ca5c",
+          "version": "3.1.0"
+        }
+      },
+      {
         "package": "PerfectLogger",
         "repositoryURL": "https://github.com/PerfectlySoft/Perfect-Logger.git",
         "state": {
@@ -114,8 +123,8 @@
         "repositoryURL": "https://github.com/PerfectlySoft/Perfect-Net.git",
         "state": {
           "branch": null,
-          "revision": "a04974a9abf20adea2082e802e20ee9cce829eeb",
-          "version": "3.2.1"
+          "revision": "ff9d3bed8d8ea936968ace4c38dd77825123c0d0",
+          "version": "3.2.2"
         }
       },
       {

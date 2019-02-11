@@ -5,6 +5,12 @@ import PackageDescription
 
 let package = Package(
     name: "ShoppingList",
+    products: [
+        .executable(
+            name: "ShoppingList",
+            targets: ["ShoppingList"]
+        ),
+    ],
     dependencies: [
         .package(url: "https://github.com/SwiftORM/MongoDB-StORM.git", from: "3.0.0"),
         .package(url: "https://github.com/PerfectlySoft/Perfect-HTTPServer.git", from: "3.0.0"),
@@ -19,5 +25,11 @@ let package = Package(
                 "SimpleLogger"
             ],
             path: "Sources"),
+        .testTarget(
+            name: "ShoppingListTests",
+            dependencies: [
+                "ShoppingList",
+                ],
+            path: "Tests")
     ]
 )
