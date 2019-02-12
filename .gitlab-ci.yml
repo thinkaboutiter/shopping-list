@@ -1,16 +1,16 @@
 stages: 
-  - build
+  # - build
   - test
 
-build_project:
-  stage: build
-  script:
-    - swift package clean
-    - swift build
-  tags:
-    - swift
-    - shopping-list
-    - build
+# build_project:
+#   stage: build
+#   script:
+#     - swift package clean
+#     - swift build
+#   tags:
+#     - swift
+#     - shopping-list
+#     - build
 
 
 test_project:
