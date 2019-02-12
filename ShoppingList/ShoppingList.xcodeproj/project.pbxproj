@@ -480,616 +480,616 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
-		4FA8F12A2212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1F9B22124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "SimpleLogger::SimpleLogger";
 			remoteInfo = SimpleLogger;
 		};
-		4FA8F12B2212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1F9C22124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "MongoDBStORM::MongoDBStORM";
 			remoteInfo = MongoDBStORM;
 		};
-		4FA8F12C2212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1F9D22124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectMongoDB::PerfectMongoDB";
 			remoteInfo = PerfectMongoDB;
 		};
-		4FA8F12D2212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1F9E22124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectLib::PerfectLib";
 			remoteInfo = PerfectLib;
 		};
-		4FA8F12E2212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1F9F22124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "SwiftRandom::SwiftRandom";
 			remoteInfo = SwiftRandom;
 		};
-		4FA8F12F2212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FA022124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectLogger::PerfectLogger";
 			remoteInfo = PerfectLogger;
 		};
-		4FA8F1302212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FA122124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectCURL::PerfectCURL";
 			remoteInfo = PerfectCURL;
 		};
-		4FA8F1312212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FA222124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectHTTP::PerfectHTTP";
 			remoteInfo = PerfectHTTP;
 		};
-		4FA8F1322212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FA322124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectNet::PerfectNet";
 			remoteInfo = PerfectNet;
 		};
-		4FA8F1332212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FA422124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectCrypto::PerfectCrypto";
 			remoteInfo = PerfectCrypto;
 		};
-		4FA8F1342212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FA522124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "COpenSSL::COpenSSL";
 			remoteInfo = COpenSSL;
 		};
-		4FA8F1352212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FA622124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectThread::PerfectThread";
 			remoteInfo = PerfectThread;
 		};
-		4FA8F1362212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FA722124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectLib::PerfectLib";
 			remoteInfo = PerfectLib;
 		};
-		4FA8F1372212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FA822124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "COpenSSL::COpenSSL";
 			remoteInfo = COpenSSL;
 		};
-		4FA8F1382212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FA922124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectThread::PerfectThread";
 			remoteInfo = PerfectThread;
 		};
-		4FA8F1392212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FAA22124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectLib::PerfectLib";
 			remoteInfo = PerfectLib;
 		};
-		4FA8F13A2212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FAB22124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectCrypto::PerfectCrypto";
 			remoteInfo = PerfectCrypto;
 		};
-		4FA8F13B2212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FAC22124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "COpenSSL::COpenSSL";
 			remoteInfo = COpenSSL;
 		};
-		4FA8F13C2212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FAD22124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectThread::PerfectThread";
 			remoteInfo = PerfectThread;
 		};
-		4FA8F13D2212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FAE22124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectLib::PerfectLib";
 			remoteInfo = PerfectLib;
 		};
-		4FA8F13E2212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FAF22124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectNet::PerfectNet";
 			remoteInfo = PerfectNet;
 		};
-		4FA8F13F2212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FB022124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectCrypto::PerfectCrypto";
 			remoteInfo = PerfectCrypto;
 		};
-		4FA8F1402212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FB122124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "COpenSSL::COpenSSL";
 			remoteInfo = COpenSSL;
 		};
-		4FA8F1412212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FB222124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectThread::PerfectThread";
 			remoteInfo = PerfectThread;
 		};
-		4FA8F1422212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FB322124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectLib::PerfectLib";
 			remoteInfo = PerfectLib;
 		};
-		4FA8F1432212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FB422124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectHTTP::PerfectHTTP";
 			remoteInfo = PerfectHTTP;
 		};
-		4FA8F1442212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FB522124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectNet::PerfectNet";
 			remoteInfo = PerfectNet;
 		};
-		4FA8F1452212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FB622124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectCrypto::PerfectCrypto";
 			remoteInfo = PerfectCrypto;
 		};
-		4FA8F1462212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FB722124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "COpenSSL::COpenSSL";
 			remoteInfo = COpenSSL;
 		};
-		4FA8F1472212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FB822124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectThread::PerfectThread";
 			remoteInfo = PerfectThread;
 		};
-		4FA8F1482212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FB922124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectLib::PerfectLib";
 			remoteInfo = PerfectLib;
 		};
-		4FA8F1492212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FBA22124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectCURL::PerfectCURL";
 			remoteInfo = PerfectCURL;
 		};
-		4FA8F14A2212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FBB22124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectHTTP::PerfectHTTP";
 			remoteInfo = PerfectHTTP;
 		};
-		4FA8F14B2212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FBC22124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectNet::PerfectNet";
 			remoteInfo = PerfectNet;
 		};
-		4FA8F14C2212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FBD22124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectCrypto::PerfectCrypto";
 			remoteInfo = PerfectCrypto;
 		};
-		4FA8F14D2212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FBE22124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "COpenSSL::COpenSSL";
 			remoteInfo = COpenSSL;
 		};
-		4FA8F14E2212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FBF22124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectThread::PerfectThread";
 			remoteInfo = PerfectThread;
 		};
-		4FA8F14F2212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FC022124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "StORM::StORM";
 			remoteInfo = StORM;
 		};
-		4FA8F1502212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FC122124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "SwiftString::SwiftString";
 			remoteInfo = SwiftString;
 		};
-		4FA8F1512212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FC222124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "SwiftMoment::SwiftMoment";
 			remoteInfo = SwiftMoment;
 		};
-		4FA8F1522212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FC322124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectLib::PerfectLib";
 			remoteInfo = PerfectLib;
 		};
-		4FA8F1532212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FC422124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "SwiftString::SwiftString";
 			remoteInfo = SwiftString;
 		};
-		4FA8F1542212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FC522124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "SwiftMoment::SwiftMoment";
 			remoteInfo = SwiftMoment;
 		};
-		4FA8F1552212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FC622124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectLib::PerfectLib";
 			remoteInfo = PerfectLib;
 		};
-		4FA8F1562212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FC722124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectMongoDB::PerfectMongoDB";
 			remoteInfo = PerfectMongoDB;
 		};
-		4FA8F1572212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FC822124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "SwiftRandom::SwiftRandom";
 			remoteInfo = SwiftRandom;
 		};
-		4FA8F1582212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FC922124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectLogger::PerfectLogger";
 			remoteInfo = PerfectLogger;
 		};
-		4FA8F1592212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FCA22124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectCURL::PerfectCURL";
 			remoteInfo = PerfectCURL;
 		};
-		4FA8F15A2212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FCB22124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "StORM::StORM";
 			remoteInfo = StORM;
 		};
-		4FA8F15B2212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FCC22124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "SwiftString::SwiftString";
 			remoteInfo = SwiftString;
 		};
-		4FA8F15C2212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FCD22124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "SwiftMoment::SwiftMoment";
 			remoteInfo = SwiftMoment;
 		};
-		4FA8F15D2212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FCE22124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectHTTPServer::PerfectHTTPServer";
 			remoteInfo = PerfectHTTPServer;
 		};
-		4FA8F15E2212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FCF22124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectCZlib::PerfectCZlib";
 			remoteInfo = PerfectCZlib;
 		};
-		4FA8F15F2212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FD022124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectHTTP::PerfectHTTP";
 			remoteInfo = PerfectHTTP;
 		};
-		4FA8F1602212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FD122124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectNet::PerfectNet";
 			remoteInfo = PerfectNet;
 		};
-		4FA8F1612212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FD222124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectCrypto::PerfectCrypto";
 			remoteInfo = PerfectCrypto;
 		};
-		4FA8F1622212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FD322124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "COpenSSL::COpenSSL";
 			remoteInfo = COpenSSL;
 		};
-		4FA8F1632212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FD422124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectThread::PerfectThread";
 			remoteInfo = PerfectThread;
 		};
-		4FA8F1642212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FD522124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectLib::PerfectLib";
 			remoteInfo = PerfectLib;
 		};
-		4FA8F1652212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FD622124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectHTTPServer::PerfectCHTTPParser";
 			remoteInfo = PerfectCHTTPParser;
 		};
-		4FA8F1662212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FD722124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectCZlib::PerfectCZlib";
 			remoteInfo = PerfectCZlib;
 		};
-		4FA8F1672212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FD822124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectHTTP::PerfectHTTP";
 			remoteInfo = PerfectHTTP;
 		};
-		4FA8F1682212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FD922124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectNet::PerfectNet";
 			remoteInfo = PerfectNet;
 		};
-		4FA8F1692212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FDA22124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectCrypto::PerfectCrypto";
 			remoteInfo = PerfectCrypto;
 		};
-		4FA8F16A2212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FDB22124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "COpenSSL::COpenSSL";
 			remoteInfo = COpenSSL;
 		};
-		4FA8F16B2212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FDC22124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectThread::PerfectThread";
 			remoteInfo = PerfectThread;
 		};
-		4FA8F16C2212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FDD22124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectLib::PerfectLib";
 			remoteInfo = PerfectLib;
 		};
-		4FA8F16D2212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FDE22124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectHTTPServer::PerfectCHTTPParser";
 			remoteInfo = PerfectCHTTPParser;
 		};
-		4FA8F16E2212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FDF22124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "ShoppingList::ShoppingList";
 			remoteInfo = ShoppingList;
 		};
-		4FA8F16F2212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FE022124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "SimpleLogger::SimpleLogger";
 			remoteInfo = SimpleLogger;
 		};
-		4FA8F1702212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FE122124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "MongoDBStORM::MongoDBStORM";
 			remoteInfo = MongoDBStORM;
 		};
-		4FA8F1712212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FE222124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectMongoDB::PerfectMongoDB";
 			remoteInfo = PerfectMongoDB;
 		};
-		4FA8F1722212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FE322124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "SwiftRandom::SwiftRandom";
 			remoteInfo = SwiftRandom;
 		};
-		4FA8F1732212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FE422124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectLogger::PerfectLogger";
 			remoteInfo = PerfectLogger;
 		};
-		4FA8F1742212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FE522124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectCURL::PerfectCURL";
 			remoteInfo = PerfectCURL;
 		};
-		4FA8F1752212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FE622124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "StORM::StORM";
 			remoteInfo = StORM;
 		};
-		4FA8F1762212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FE722124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "SwiftString::SwiftString";
 			remoteInfo = SwiftString;
 		};
-		4FA8F1772212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FE822124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "SwiftMoment::SwiftMoment";
 			remoteInfo = SwiftMoment;
 		};
-		4FA8F1782212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FE922124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectHTTPServer::PerfectHTTPServer";
 			remoteInfo = PerfectHTTPServer;
 		};
-		4FA8F1792212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FEA22124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectCZlib::PerfectCZlib";
 			remoteInfo = PerfectCZlib;
 		};
-		4FA8F17A2212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FEB22124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectHTTP::PerfectHTTP";
 			remoteInfo = PerfectHTTP;
 		};
-		4FA8F17B2212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FEC22124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectNet::PerfectNet";
 			remoteInfo = PerfectNet;
 		};
-		4FA8F17C2212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FED22124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectCrypto::PerfectCrypto";
 			remoteInfo = PerfectCrypto;
 		};
-		4FA8F17D2212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FEE22124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "COpenSSL::COpenSSL";
 			remoteInfo = COpenSSL;
 		};
-		4FA8F17E2212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FEF22124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectThread::PerfectThread";
 			remoteInfo = PerfectThread;
 		};
-		4FA8F17F2212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FF022124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectLib::PerfectLib";
 			remoteInfo = PerfectLib;
 		};
-		4FA8F1802212381D00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FF122124A3B00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
 			remoteGlobalIDString = "PerfectHTTPServer::PerfectCHTTPParser";
 			remoteInfo = PerfectCHTTPParser;
 		};
-		4FA8F1812212381E00E22254 /* PBXContainerItemProxy */ = {
+		4FAB1FF222124A3C00917377 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = OBJ_1 /* Project object */;
 			proxyType = 1;
@@ -1104,14 +1104,14 @@
 		OBJ_10 /* ShoppingItem.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ShoppingItem.swift; sourceTree = "<group>"; };
 		OBJ_101 /* FileLogger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = FileLogger.swift; sourceTree = "<group>"; };
 		OBJ_102 /* RemoteLogger.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RemoteLogger.swift; sourceTree = "<group>"; };
-		OBJ_103 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/boyankov/_bbRoot/01-projects/gitlab/shopping-list/ShoppingList/.build/checkouts/Perfect-Logger.git-7057055977193601623/Package.swift"; sourceTree = "<group>"; };
+		OBJ_103 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/boyankov/_bbRoot/01-projects/gitlab/shopping-list/ShoppingList/.build/checkouts/Perfect-Logger.git--3878793967981274119/Package.swift"; sourceTree = "<group>"; };
 		OBJ_106 /* CURLRequest.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CURLRequest.swift; sourceTree = "<group>"; };
 		OBJ_107 /* CURLRequestOptions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CURLRequestOptions.swift; sourceTree = "<group>"; };
 		OBJ_108 /* CURLResponse.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CURLResponse.swift; sourceTree = "<group>"; };
 		OBJ_109 /* CURLResponseInfos.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = CURLResponseInfos.swift; sourceTree = "<group>"; };
 		OBJ_11 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		OBJ_110 /* cURL.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = cURL.swift; sourceTree = "<group>"; };
-		OBJ_111 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/boyankov/_bbRoot/01-projects/gitlab/shopping-list/ShoppingList/.build/checkouts/Perfect-CURL.git--6874649039970451385/Package.swift"; sourceTree = "<group>"; };
+		OBJ_111 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/boyankov/_bbRoot/01-projects/gitlab/shopping-list/ShoppingList/.build/checkouts/Perfect-CURL.git--7642165163468270350/Package.swift"; sourceTree = "<group>"; };
 		OBJ_114 /* HTTPFilter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HTTPFilter.swift; sourceTree = "<group>"; };
 		OBJ_115 /* HTTPHeaders.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HTTPHeaders.swift; sourceTree = "<group>"; };
 		OBJ_116 /* HTTPMethod.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HTTPMethod.swift; sourceTree = "<group>"; };
@@ -1122,7 +1122,7 @@
 		OBJ_121 /* Routing.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Routing.swift; sourceTree = "<group>"; };
 		OBJ_122 /* StaticFileHandler.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StaticFileHandler.swift; sourceTree = "<group>"; };
 		OBJ_123 /* TypedRoutes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TypedRoutes.swift; sourceTree = "<group>"; };
-		OBJ_124 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/boyankov/_bbRoot/01-projects/gitlab/shopping-list/ShoppingList/.build/checkouts/Perfect-HTTP.git-6990625489561684636/Package.swift"; sourceTree = "<group>"; };
+		OBJ_124 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/boyankov/_bbRoot/01-projects/gitlab/shopping-list/ShoppingList/.build/checkouts/Perfect-HTTP.git--4182001133199840722/Package.swift"; sourceTree = "<group>"; };
 		OBJ_127 /* Net.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Net.swift; sourceTree = "<group>"; };
 		OBJ_128 /* NetAddress.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetAddress.swift; sourceTree = "<group>"; };
 		OBJ_129 /* NetEvent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetEvent.swift; sourceTree = "<group>"; };
@@ -1130,7 +1130,7 @@
 		OBJ_131 /* NetTCP.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetTCP.swift; sourceTree = "<group>"; };
 		OBJ_132 /* NetTCPSSL.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetTCPSSL.swift; sourceTree = "<group>"; };
 		OBJ_133 /* NetUDP.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NetUDP.swift; sourceTree = "<group>"; };
-		OBJ_134 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/boyankov/_bbRoot/01-projects/gitlab/shopping-list/ShoppingList/.build/checkouts/Perfect-Net.git--5043195803116056418/Package.swift"; sourceTree = "<group>"; };
+		OBJ_134 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/boyankov/_bbRoot/01-projects/gitlab/shopping-list/ShoppingList/.build/checkouts/Perfect-Net.git-6648870029247446207/Package.swift"; sourceTree = "<group>"; };
 		OBJ_137 /* Algorithms.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Algorithms.swift; sourceTree = "<group>"; };
 		OBJ_138 /* ByteIO.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ByteIO.swift; sourceTree = "<group>"; };
 		OBJ_139 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
@@ -1139,7 +1139,7 @@
 		OBJ_141 /* Keys.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Keys.swift; sourceTree = "<group>"; };
 		OBJ_142 /* OpenSSLInternal.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = OpenSSLInternal.swift; sourceTree = "<group>"; };
 		OBJ_143 /* PerfectCrypto.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PerfectCrypto.swift; sourceTree = "<group>"; };
-		OBJ_144 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/boyankov/_bbRoot/01-projects/gitlab/shopping-list/ShoppingList/.build/checkouts/Perfect-Crypto.git--910825316711620709/Package.swift"; sourceTree = "<group>"; };
+		OBJ_144 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/boyankov/_bbRoot/01-projects/gitlab/shopping-list/ShoppingList/.build/checkouts/Perfect-Crypto.git-3343789759873870601/Package.swift"; sourceTree = "<group>"; };
 		OBJ_147 /* a_.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = a_.c; sourceTree = "<group>"; };
 		OBJ_148 /* aes_.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = aes_.c; sourceTree = "<group>"; };
 		OBJ_149 /* ameth_lib.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = ameth_lib.c; sourceTree = "<group>"; };
@@ -1216,7 +1216,7 @@
 		OBJ_217 /* e_nuron.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = e_nuron.c; sourceTree = "<group>"; };
 		OBJ_218 /* e_nuron_err.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = e_nuron_err.c; sourceTree = "<group>"; };
 		OBJ_219 /* e_old.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = e_old.c; sourceTree = "<group>"; };
-		OBJ_22 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/boyankov/_bbRoot/01-projects/gitlab/shopping-list/ShoppingList/.build/checkouts/SimpleLogger.git--2991024407990618397/Package.swift"; sourceTree = "<group>"; };
+		OBJ_22 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/boyankov/_bbRoot/01-projects/gitlab/shopping-list/ShoppingList/.build/checkouts/SimpleLogger.git-675497233325045634/Package.swift"; sourceTree = "<group>"; };
 		OBJ_220 /* e_padlock.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = e_padlock.c; sourceTree = "<group>"; };
 		OBJ_221 /* e_rc2.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = e_rc2.c; sourceTree = "<group>"; };
 		OBJ_222 /* e_rc4.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = e_rc4.c; sourceTree = "<group>"; };
@@ -1279,7 +1279,7 @@
 		OBJ_277 /* m_md2.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = m_md2.c; sourceTree = "<group>"; };
 		OBJ_278 /* m_md4.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = m_md4.c; sourceTree = "<group>"; };
 		OBJ_279 /* m_md5.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = m_md5.c; sourceTree = "<group>"; };
-		OBJ_28 /* module.modulemap */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.module-map"; name = module.modulemap; path = "/Users/boyankov/_bbRoot/01-projects/gitlab/shopping-list/ShoppingList/.build/checkouts/Perfect-HTTPServer.git--2284898303533995467/Sources/PerfectCHTTPParser/include/module.modulemap"; sourceTree = "<group>"; };
+		OBJ_28 /* module.modulemap */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.module-map"; name = module.modulemap; path = "/Users/boyankov/_bbRoot/01-projects/gitlab/shopping-list/ShoppingList/.build/checkouts/Perfect-HTTPServer.git--4012718610184643329/Sources/PerfectCHTTPParser/include/module.modulemap"; sourceTree = "<group>"; };
 		OBJ_280 /* m_mdc2.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = m_mdc2.c; sourceTree = "<group>"; };
 		OBJ_281 /* m_null.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = m_null.c; sourceTree = "<group>"; };
 		OBJ_282 /* m_ripemd.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = m_ripemd.c; sourceTree = "<group>"; };
@@ -1387,12 +1387,12 @@
 		OBJ_378 /* xts128.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = xts128.c; sourceTree = "<group>"; };
 		OBJ_38 /* HTTP2FrameReader.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HTTP2FrameReader.swift; sourceTree = "<group>"; };
 		OBJ_380 /* openssl.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = openssl.h; sourceTree = "<group>"; };
-		OBJ_381 /* module.modulemap */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.module-map"; name = module.modulemap; path = "/Users/boyankov/_bbRoot/01-projects/gitlab/shopping-list/ShoppingList/.build/checkouts/Perfect-COpenSSL.git--5510611872721463830/COpenSSL/include/module.modulemap"; sourceTree = "<group>"; };
-		OBJ_382 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/boyankov/_bbRoot/01-projects/gitlab/shopping-list/ShoppingList/.build/checkouts/Perfect-COpenSSL.git--5510611872721463830/Package.swift"; sourceTree = "<group>"; };
+		OBJ_381 /* module.modulemap */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.module-map"; name = module.modulemap; path = "/Users/boyankov/_bbRoot/01-projects/gitlab/shopping-list/ShoppingList/.build/checkouts/Perfect-COpenSSL.git-754061778669956999/COpenSSL/include/module.modulemap"; sourceTree = "<group>"; };
+		OBJ_382 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/boyankov/_bbRoot/01-projects/gitlab/shopping-list/ShoppingList/.build/checkouts/Perfect-COpenSSL.git-754061778669956999/Package.swift"; sourceTree = "<group>"; };
 		OBJ_385 /* Promise.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Promise.swift; sourceTree = "<group>"; };
 		OBJ_386 /* ThreadQueue.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ThreadQueue.swift; sourceTree = "<group>"; };
 		OBJ_387 /* Threading.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Threading.swift; sourceTree = "<group>"; };
-		OBJ_388 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/boyankov/_bbRoot/01-projects/gitlab/shopping-list/ShoppingList/.build/checkouts/Perfect-Thread.git--1219856232107915850/Package.swift"; sourceTree = "<group>"; };
+		OBJ_388 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/boyankov/_bbRoot/01-projects/gitlab/shopping-list/ShoppingList/.build/checkouts/Perfect-Thread.git--995555312828010167/Package.swift"; sourceTree = "<group>"; };
 		OBJ_39 /* HTTP2FrameWriter.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HTTP2FrameWriter.swift; sourceTree = "<group>"; };
 		OBJ_391 /* Extract.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extract.swift; sourceTree = "<group>"; };
 		OBJ_392 /* StORM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StORM.swift; sourceTree = "<group>"; };
@@ -1407,8 +1407,8 @@
 		OBJ_400 /* StORMProtocol.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StORMProtocol.swift; sourceTree = "<group>"; };
 		OBJ_401 /* StORMRow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StORMRow.swift; sourceTree = "<group>"; };
 		OBJ_402 /* StORMtResultSet.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StORMtResultSet.swift; sourceTree = "<group>"; };
-		OBJ_403 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/boyankov/_bbRoot/01-projects/gitlab/shopping-list/ShoppingList/.build/checkouts/StORM.git-9204197546744097777/Package.swift"; sourceTree = "<group>"; };
-		OBJ_405 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/boyankov/_bbRoot/01-projects/gitlab/shopping-list/ShoppingList/.build/checkouts/SwiftString.git--4756028923655489/Package.swift"; sourceTree = "<group>"; };
+		OBJ_403 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/boyankov/_bbRoot/01-projects/gitlab/shopping-list/ShoppingList/.build/checkouts/StORM.git--921285912624472176/Package.swift"; sourceTree = "<group>"; };
+		OBJ_405 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/boyankov/_bbRoot/01-projects/gitlab/shopping-list/ShoppingList/.build/checkouts/SwiftString.git-1967508766490139849/Package.swift"; sourceTree = "<group>"; };
 		OBJ_406 /* StringExtensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringExtensions.swift; sourceTree = "<group>"; };
 		OBJ_407 /* StringHTML.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringHTML.swift; sourceTree = "<group>"; };
 		OBJ_408 /* StringURL.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StringURL.swift; sourceTree = "<group>"; };
@@ -1419,7 +1419,7 @@
 		OBJ_414 /* MomentFromNow.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MomentFromNow.swift; sourceTree = "<group>"; };
 		OBJ_415 /* Operators.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Operators.swift; sourceTree = "<group>"; };
 		OBJ_416 /* TimeUnit.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeUnit.swift; sourceTree = "<group>"; };
-		OBJ_417 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/boyankov/_bbRoot/01-projects/gitlab/shopping-list/ShoppingList/.build/checkouts/SwiftMoment.git--4215565341934967523/Package.swift"; sourceTree = "<group>"; };
+		OBJ_417 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/boyankov/_bbRoot/01-projects/gitlab/shopping-list/ShoppingList/.build/checkouts/SwiftMoment.git-7576172575781892253/Package.swift"; sourceTree = "<group>"; };
 		OBJ_42 /* HTTP2Response.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HTTP2Response.swift; sourceTree = "<group>"; };
 		OBJ_420 /* Bytes.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Bytes.swift; sourceTree = "<group>"; };
 		OBJ_421 /* Dir.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Dir.swift; sourceTree = "<group>"; };
@@ -1430,7 +1430,7 @@
 		OBJ_426 /* PerfectServer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PerfectServer.swift; sourceTree = "<group>"; };
 		OBJ_427 /* SysProcess.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SysProcess.swift; sourceTree = "<group>"; };
 		OBJ_428 /* Utilities.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Utilities.swift; sourceTree = "<group>"; };
-		OBJ_429 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/boyankov/_bbRoot/01-projects/gitlab/shopping-list/ShoppingList/.build/checkouts/PerfectLib.git-8267450232994670836/Package.swift"; sourceTree = "<group>"; };
+		OBJ_429 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/boyankov/_bbRoot/01-projects/gitlab/shopping-list/ShoppingList/.build/checkouts/PerfectLib.git--7856449427739905769/Package.swift"; sourceTree = "<group>"; };
 		OBJ_43 /* HTTP2Session.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HTTP2Session.swift; sourceTree = "<group>"; };
 		OBJ_44 /* HTTP2SessionSettings.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HTTP2SessionSettings.swift; sourceTree = "<group>"; };
 		OBJ_45 /* HTTPContentCompression.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HTTPContentCompression.swift; sourceTree = "<group>"; };
@@ -1438,7 +1438,7 @@
 		OBJ_47 /* HTTPServer.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HTTPServer.swift; sourceTree = "<group>"; };
 		OBJ_48 /* HTTPServerEx.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HTTPServerEx.swift; sourceTree = "<group>"; };
 		OBJ_49 /* HTTPServerExConfig.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = HTTPServerExConfig.swift; sourceTree = "<group>"; };
-		OBJ_50 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/boyankov/_bbRoot/01-projects/gitlab/shopping-list/ShoppingList/.build/checkouts/Perfect-HTTPServer.git--2284898303533995467/Package.swift"; sourceTree = "<group>"; };
+		OBJ_50 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/boyankov/_bbRoot/01-projects/gitlab/shopping-list/ShoppingList/.build/checkouts/Perfect-HTTPServer.git--4012718610184643329/Package.swift"; sourceTree = "<group>"; };
 		OBJ_53 /* adler32.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = adler32.c; sourceTree = "<group>"; };
 		OBJ_54 /* compress.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = compress.c; sourceTree = "<group>"; };
 		OBJ_55 /* crc32.c */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.c; path = crc32.c; sourceTree = "<group>"; };
@@ -1460,9 +1460,9 @@
 		OBJ_71 /* zlib.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = zlib.h; sourceTree = "<group>"; };
 		OBJ_72 /* inflate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = inflate.h; sourceTree = "<group>"; };
 		OBJ_73 /* zconf.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = zconf.h; sourceTree = "<group>"; };
-		OBJ_74 /* module.modulemap */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.module-map"; name = module.modulemap; path = "/Users/boyankov/_bbRoot/01-projects/gitlab/shopping-list/ShoppingList/.build/checkouts/Perfect-CZlib-src.git--666575274036735215/PerfectCZlib/include/module.modulemap"; sourceTree = "<group>"; };
-		OBJ_75 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/boyankov/_bbRoot/01-projects/gitlab/shopping-list/ShoppingList/.build/checkouts/Perfect-CZlib-src.git--666575274036735215/Package.swift"; sourceTree = "<group>"; };
-		OBJ_77 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/boyankov/_bbRoot/01-projects/gitlab/shopping-list/ShoppingList/.build/checkouts/MongoDB-StORM.git--7946269071751163540/Package.swift"; sourceTree = "<group>"; };
+		OBJ_74 /* module.modulemap */ = {isa = PBXFileReference; lastKnownFileType = "sourcecode.module-map"; name = module.modulemap; path = "/Users/boyankov/_bbRoot/01-projects/gitlab/shopping-list/ShoppingList/.build/checkouts/Perfect-CZlib-src.git--2152667263506572231/PerfectCZlib/include/module.modulemap"; sourceTree = "<group>"; };
+		OBJ_75 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/boyankov/_bbRoot/01-projects/gitlab/shopping-list/ShoppingList/.build/checkouts/Perfect-CZlib-src.git--2152667263506572231/Package.swift"; sourceTree = "<group>"; };
+		OBJ_77 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/boyankov/_bbRoot/01-projects/gitlab/shopping-list/ShoppingList/.build/checkouts/MongoDB-StORM.git--4881491410041675505/Package.swift"; sourceTree = "<group>"; };
 		OBJ_78 /* Convenience.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Convenience.swift; sourceTree = "<group>"; };
 		OBJ_79 /* Extensions.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Extensions.swift; sourceTree = "<group>"; };
 		OBJ_80 /* MongoDBStORM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MongoDBStORM.swift; sourceTree = "<group>"; };
@@ -1476,11 +1476,11 @@
 		OBJ_9 /* BasicController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = BasicController.swift; sourceTree = "<group>"; };
 		OBJ_90 /* MongoGridFS.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MongoGridFS.swift; sourceTree = "<group>"; };
 		OBJ_91 /* MongoJSONConvertables.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MongoJSONConvertables.swift; sourceTree = "<group>"; };
-		OBJ_92 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/boyankov/_bbRoot/01-projects/gitlab/shopping-list/ShoppingList/.build/checkouts/Perfect-MongoDB.git-5026966607075213602/Package.swift"; sourceTree = "<group>"; };
+		OBJ_92 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/boyankov/_bbRoot/01-projects/gitlab/shopping-list/ShoppingList/.build/checkouts/Perfect-MongoDB.git--3026645886516574398/Package.swift"; sourceTree = "<group>"; };
 		OBJ_95 /* Random.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Random.swift; sourceTree = "<group>"; };
 		OBJ_96 /* Randoms.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Randoms.swift; sourceTree = "<group>"; };
 		OBJ_97 /* URandom.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = URandom.swift; sourceTree = "<group>"; };
-		OBJ_98 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/boyankov/_bbRoot/01-projects/gitlab/shopping-list/ShoppingList/.build/checkouts/SwiftRandom.git-7394443610859799181/Package.swift"; sourceTree = "<group>"; };
+		OBJ_98 /* Package.swift */ = {isa = PBXFileReference; explicitFileType = sourcecode.swift; name = Package.swift; path = "/Users/boyankov/_bbRoot/01-projects/gitlab/shopping-list/ShoppingList/.build/checkouts/SwiftRandom.git--1468863401919416747/Package.swift"; sourceTree = "<group>"; };
 		"PerfectCURL::PerfectCURL::Product" /* PerfectCURL.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = PerfectCURL.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		"PerfectCZlib::PerfectCZlib::Product" /* PerfectCZlib.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = PerfectCZlib.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		"PerfectCrypto::PerfectCrypto::Product" /* PerfectCrypto.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = PerfectCrypto.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -1492,7 +1492,7 @@
 		"PerfectMongoDB::PerfectMongoDB::Product" /* PerfectMongoDB.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = PerfectMongoDB.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		"PerfectNet::PerfectNet::Product" /* PerfectNet.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = PerfectNet.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		"PerfectThread::PerfectThread::Product" /* PerfectThread.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = PerfectThread.framework; sourceTree = BUILT_PRODUCTS_DIR; };
-		"ShoppingList::ShoppingList::Product" /* ShoppingList */ = {isa = PBXFileReference; explicitFileType = "compiled.mach-o.executable"; path = ShoppingList; sourceTree = BUILT_PRODUCTS_DIR; };
+		"ShoppingList::ShoppingList::Product" /* ShoppingList */ = {isa = PBXFileReference; lastKnownFileType = text; path = ShoppingList; sourceTree = BUILT_PRODUCTS_DIR; };
 		"ShoppingList::ShoppingListTests::Product" /* ShoppingListTests.xctest */ = {isa = PBXFileReference; lastKnownFileType = file; path = ShoppingListTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		"SimpleLogger::SimpleLogger::Product" /* SimpleLogger.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = SimpleLogger.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		"StORM::StORM::Product" /* StORM.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = StORM.framework; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -1738,7 +1738,7 @@
 				OBJ_102 /* RemoteLogger.swift */,
 			);
 			name = PerfectLogger;
-			path = ".build/checkouts/Perfect-Logger.git-7057055977193601623/Sources/PerfectLogger";
+			path = ".build/checkouts/Perfect-Logger.git--3878793967981274119/Sources/PerfectLogger";
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_104 /* PerfectCURL 3.1.0 */ = {
@@ -1760,7 +1760,7 @@
 				OBJ_110 /* cURL.swift */,
 			);
 			name = PerfectCURL;
-			path = ".build/checkouts/Perfect-CURL.git--6874649039970451385/Sources/PerfectCURL";
+			path = ".build/checkouts/Perfect-CURL.git--7642165163468270350/Sources/PerfectCURL";
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_112 /* PerfectHTTP 3.2.0 */ = {
@@ -1787,7 +1787,7 @@
 				OBJ_123 /* TypedRoutes.swift */,
 			);
 			name = PerfectHTTP;
-			path = ".build/checkouts/Perfect-HTTP.git-6990625489561684636/Sources/PerfectHTTP";
+			path = ".build/checkouts/Perfect-HTTP.git--4182001133199840722/Sources/PerfectHTTP";
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_12 /* Tests */ = {
@@ -1795,7 +1795,7 @@
 			children = (
 				OBJ_13 /* ShoppingListTests */,
 			);
-			path = Tests;
+			name = Tests;
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_125 /* PerfectNet 3.2.2 */ = {
@@ -1819,7 +1819,7 @@
 				OBJ_133 /* NetUDP.swift */,
 			);
 			name = PerfectNet;
-			path = ".build/checkouts/Perfect-Net.git--5043195803116056418/Sources/PerfectNet";
+			path = ".build/checkouts/Perfect-Net.git-6648870029247446207/Sources/PerfectNet";
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_13 /* ShoppingListTests */ = {
@@ -1828,8 +1828,9 @@
 				OBJ_14 /* ShoppingListTests.swift */,
 				OBJ_15 /* XCTestManifests.swift */,
 			);
-			path = ShoppingListTests;
-			sourceTree = "<group>";
+			name = ShoppingListTests;
+			path = Tests/ShoppingListTests;
+			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_135 /* PerfectCrypto 3.1.2 */ = {
 			isa = PBXGroup;
@@ -1852,7 +1853,7 @@
 				OBJ_143 /* PerfectCrypto.swift */,
 			);
 			name = PerfectCrypto;
-			path = ".build/checkouts/Perfect-Crypto.git--910825316711620709/Sources/PerfectCrypto";
+			path = ".build/checkouts/Perfect-Crypto.git-3343789759873870601/Sources/PerfectCrypto";
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_145 /* COpenSSL 3.2.0 */ = {
@@ -2102,7 +2103,7 @@
 				OBJ_379 /* include */,
 			);
 			name = COpenSSL;
-			path = ".build/checkouts/Perfect-COpenSSL.git--5510611872721463830/COpenSSL";
+			path = ".build/checkouts/Perfect-COpenSSL.git-754061778669956999/COpenSSL";
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_16 /* Dependencies */ = {
@@ -2146,7 +2147,7 @@
 				OBJ_20 /* SimpleLogger.swift */,
 			);
 			name = SimpleLogger;
-			path = ".build/checkouts/SimpleLogger.git--2991024407990618397/Sources/SimpleLogger";
+			path = ".build/checkouts/SimpleLogger.git-675497233325045634/Sources/SimpleLogger";
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_21 /* SimpleLoggerCLITest */ = {
@@ -2154,7 +2155,7 @@
 			children = (
 			);
 			name = SimpleLoggerCLITest;
-			path = ".build/checkouts/SimpleLogger.git--2991024407990618397/Sources/SimpleLoggerCLITest";
+			path = ".build/checkouts/SimpleLogger.git-675497233325045634/Sources/SimpleLoggerCLITest";
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_23 /* PerfectHTTPServer 3.0.19 */ = {
@@ -2174,7 +2175,7 @@
 				OBJ_26 /* include */,
 			);
 			name = PerfectCHTTPParser;
-			path = ".build/checkouts/Perfect-HTTPServer.git--2284898303533995467/Sources/PerfectCHTTPParser";
+			path = ".build/checkouts/Perfect-HTTPServer.git--4012718610184643329/Sources/PerfectCHTTPParser";
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_26 /* include */ = {
@@ -2198,7 +2199,7 @@
 				OBJ_49 /* HTTPServerExConfig.swift */,
 			);
 			name = PerfectHTTPServer;
-			path = ".build/checkouts/Perfect-HTTPServer.git--2284898303533995467/Sources/PerfectHTTPServer";
+			path = ".build/checkouts/Perfect-HTTPServer.git--4012718610184643329/Sources/PerfectHTTPServer";
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_30 /* HTTP11 */ = {
@@ -2254,7 +2255,7 @@
 				OBJ_387 /* Threading.swift */,
 			);
 			name = PerfectThread;
-			path = ".build/checkouts/Perfect-Thread.git--1219856232107915850/Sources/PerfectThread";
+			path = ".build/checkouts/Perfect-Thread.git--995555312828010167/Sources/PerfectThread";
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_389 /* StORM 3.2.4 */ = {
@@ -2283,7 +2284,7 @@
 				OBJ_402 /* StORMtResultSet.swift */,
 			);
 			name = StORM;
-			path = ".build/checkouts/StORM.git-9204197546744097777/Sources/StORM";
+			path = ".build/checkouts/StORM.git--921285912624472176/Sources/StORM";
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_404 /* SwiftString 2.0.4 */ = {
@@ -2295,7 +2296,7 @@
 				OBJ_408 /* StringURL.swift */,
 			);
 			name = "SwiftString 2.0.4";
-			path = ".build/checkouts/SwiftString.git--4756028923655489/Sources";
+			path = ".build/checkouts/SwiftString.git-1967508766490139849/Sources";
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_409 /* SwiftMoment 1.1.0 */ = {
@@ -2318,7 +2319,7 @@
 				OBJ_416 /* TimeUnit.swift */,
 			);
 			name = SwiftMoment;
-			path = ".build/checkouts/SwiftMoment.git--4215565341934967523/Sources/SwiftMoment";
+			path = ".build/checkouts/SwiftMoment.git-7576172575781892253/Sources/SwiftMoment";
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_418 /* PerfectLib 3.1.2 */ = {
@@ -2344,32 +2345,32 @@
 				OBJ_428 /* Utilities.swift */,
 			);
 			name = PerfectLib;
-			path = ".build/checkouts/PerfectLib.git-8267450232994670836/Sources/PerfectLib";
+			path = ".build/checkouts/PerfectLib.git--7856449427739905769/Sources/PerfectLib";
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_430 /* Products */ = {
 			isa = PBXGroup;
 			children = (
-				"SwiftRandom::SwiftRandom::Product" /* SwiftRandom.framework */,
-				"SimpleLogger::SimpleLogger::Product" /* SimpleLogger.framework */,
-				"SwiftMoment::SwiftMoment::Product" /* SwiftMoment.framework */,
-				"PerfectHTTP::PerfectHTTP::Product" /* PerfectHTTP.framework */,
-				"ShoppingList::ShoppingList::Product" /* ShoppingList */,
-				"ShoppingList::ShoppingListTests::Product" /* ShoppingListTests.xctest */,
-				"PerfectMongoDB::PerfectMongoDB::Product" /* PerfectMongoDB.framework */,
+				"PerfectHTTPServer::PerfectCHTTPParser::Product" /* PerfectCHTTPParser.framework */,
+				"MongoDBStORM::MongoDBStORM::Product" /* MongoDBStORM.framework */,
 				"PerfectLogger::PerfectLogger::Product" /* PerfectLogger.framework */,
 				"PerfectLib::PerfectLib::Product" /* PerfectLib.framework */,
-				"PerfectNet::PerfectNet::Product" /* PerfectNet.framework */,
-				"PerfectCrypto::PerfectCrypto::Product" /* PerfectCrypto.framework */,
-				"PerfectHTTPServer::PerfectHTTPServer::Product" /* PerfectHTTPServer.framework */,
-				"PerfectCURL::PerfectCURL::Product" /* PerfectCURL.framework */,
 				"PerfectThread::PerfectThread::Product" /* PerfectThread.framework */,
-				"SwiftString::SwiftString::Product" /* SwiftString.framework */,
-				"MongoDBStORM::MongoDBStORM::Product" /* MongoDBStORM.framework */,
-				"COpenSSL::COpenSSL::Product" /* COpenSSL.framework */,
-				"PerfectHTTPServer::PerfectCHTTPParser::Product" /* PerfectCHTTPParser.framework */,
-				"PerfectCZlib::PerfectCZlib::Product" /* PerfectCZlib.framework */,
+				"ShoppingList::ShoppingList::Product" /* ShoppingList */,
+				"PerfectMongoDB::PerfectMongoDB::Product" /* PerfectMongoDB.framework */,
 				"StORM::StORM::Product" /* StORM.framework */,
+				"PerfectNet::PerfectNet::Product" /* PerfectNet.framework */,
+				"PerfectCURL::PerfectCURL::Product" /* PerfectCURL.framework */,
+				"SimpleLogger::SimpleLogger::Product" /* SimpleLogger.framework */,
+				"SwiftMoment::SwiftMoment::Product" /* SwiftMoment.framework */,
+				"ShoppingList::ShoppingListTests::Product" /* ShoppingListTests.xctest */,
+				"PerfectCZlib::PerfectCZlib::Product" /* PerfectCZlib.framework */,
+				"PerfectHTTP::PerfectHTTP::Product" /* PerfectHTTP.framework */,
+				"PerfectHTTPServer::PerfectHTTPServer::Product" /* PerfectHTTPServer.framework */,
+				"SwiftRandom::SwiftRandom::Product" /* SwiftRandom.framework */,
+				"SwiftString::SwiftString::Product" /* SwiftString.framework */,
+				"PerfectCrypto::PerfectCrypto::Product" /* PerfectCrypto.framework */,
+				"COpenSSL::COpenSSL::Product" /* COpenSSL.framework */,
 			);
 			name = Products;
 			sourceTree = BUILT_PRODUCTS_DIR;
@@ -2416,7 +2417,7 @@
 				OBJ_68 /* include */,
 			);
 			name = PerfectCZlib;
-			path = ".build/checkouts/Perfect-CZlib-src.git--666575274036735215/PerfectCZlib";
+			path = ".build/checkouts/Perfect-CZlib-src.git--2152667263506572231/PerfectCZlib";
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_68 /* include */ = {
@@ -2437,7 +2438,7 @@
 			children = (
 				OBJ_8 /* ShoppingList */,
 			);
-			path = Sources;
+			name = Sources;
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_76 /* MongoDBStORM 3.0.3 */ = {
@@ -2450,7 +2451,7 @@
 				OBJ_81 /* parseRows.swift */,
 			);
 			name = "MongoDBStORM 3.0.3";
-			path = ".build/checkouts/MongoDB-StORM.git--7946269071751163540/Sources";
+			path = ".build/checkouts/MongoDB-StORM.git--4881491410041675505/Sources";
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_8 /* ShoppingList */ = {
@@ -2460,8 +2461,9 @@
 				OBJ_10 /* ShoppingItem.swift */,
 				OBJ_11 /* main.swift */,
 			);
-			path = ShoppingList;
-			sourceTree = "<group>";
+			name = ShoppingList;
+			path = Sources/ShoppingList;
+			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_82 /* PerfectMongoDB 3.1.1 */ = {
 			isa = PBXGroup;
@@ -2485,7 +2487,7 @@
 				OBJ_91 /* MongoJSONConvertables.swift */,
 			);
 			name = PerfectMongoDB;
-			path = ".build/checkouts/Perfect-MongoDB.git-5026966607075213602/Sources/PerfectMongoDB";
+			path = ".build/checkouts/Perfect-MongoDB.git--3026645886516574398/Sources/PerfectMongoDB";
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_93 /* SwiftRandom 0.3.0 */ = {
@@ -2505,7 +2507,7 @@
 				OBJ_97 /* URandom.swift */,
 			);
 			name = SwiftRandom;
-			path = ".build/checkouts/SwiftRandom.git-7394443610859799181/Sources/SwiftRandom";
+			path = ".build/checkouts/SwiftRandom.git--1468863401919416747/Sources/SwiftRandom";
 			sourceTree = SOURCE_ROOT;
 		};
 		OBJ_99 /* PerfectLogger 3.1.0 */ = {
@@ -3186,6 +3188,53 @@
 			isa = PBXProject;
 			attributes = {
 				LastUpgradeCheck = 9999;
+				TargetAttributes = {
+					"MongoDBStORM::MongoDBStORM" = {
+						LastSwiftMigration = 1010;
+					};
+					"PerfectCURL::PerfectCURL" = {
+						LastSwiftMigration = 1010;
+					};
+					"PerfectCrypto::PerfectCrypto" = {
+						LastSwiftMigration = 1010;
+					};
+					"PerfectHTTP::PerfectHTTP" = {
+						LastSwiftMigration = 1010;
+					};
+					"PerfectHTTPServer::PerfectHTTPServer" = {
+						LastSwiftMigration = 1010;
+					};
+					"PerfectLib::PerfectLib" = {
+						LastSwiftMigration = 1010;
+					};
+					"PerfectLogger::PerfectLogger" = {
+						LastSwiftMigration = 1010;
+					};
+					"PerfectMongoDB::PerfectMongoDB" = {
+						LastSwiftMigration = 1010;
+					};
+					"PerfectNet::PerfectNet" = {
+						LastSwiftMigration = 1010;
+					};
+					"PerfectThread::PerfectThread" = {
+						LastSwiftMigration = 1010;
+					};
+					"SimpleLogger::SimpleLogger" = {
+						LastSwiftMigration = 1010;
+					};
+					"StORM::StORM" = {
+						LastSwiftMigration = 1010;
+					};
+					"SwiftMoment::SwiftMoment" = {
+						LastSwiftMigration = 1010;
+					};
+					"SwiftRandom::SwiftRandom" = {
+						LastSwiftMigration = 1010;
+					};
+					"SwiftString::SwiftString" = {
+						LastSwiftMigration = 1010;
+					};
+				};
 			};
 			buildConfigurationList = OBJ_2 /* Build configuration list for PBXProject "ShoppingList" */;
 			compatibilityVersion = "Xcode 3.2";
@@ -3885,442 +3934,442 @@
 		OBJ_1047 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "SimpleLogger::SimpleLogger" /* SimpleLogger */;
-			targetProxy = 4FA8F12A2212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1F9B22124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_1049 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "MongoDBStORM::MongoDBStORM" /* MongoDBStORM */;
-			targetProxy = 4FA8F12B2212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1F9C22124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_1050 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectMongoDB::PerfectMongoDB" /* PerfectMongoDB */;
-			targetProxy = 4FA8F1562212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FC722124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_1051 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "SwiftRandom::SwiftRandom" /* SwiftRandom */;
-			targetProxy = 4FA8F1572212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FC822124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_1052 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectLogger::PerfectLogger" /* PerfectLogger */;
-			targetProxy = 4FA8F1582212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FC922124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_1053 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectCURL::PerfectCURL" /* PerfectCURL */;
-			targetProxy = 4FA8F1592212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FCA22124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_1054 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "StORM::StORM" /* StORM */;
-			targetProxy = 4FA8F15A2212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FCB22124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_1055 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "SwiftString::SwiftString" /* SwiftString */;
-			targetProxy = 4FA8F15B2212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FCC22124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_1056 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "SwiftMoment::SwiftMoment" /* SwiftMoment */;
-			targetProxy = 4FA8F15C2212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FCD22124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_1057 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectHTTPServer::PerfectHTTPServer" /* PerfectHTTPServer */;
-			targetProxy = 4FA8F15D2212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FCE22124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_1058 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectCZlib::PerfectCZlib" /* PerfectCZlib */;
-			targetProxy = 4FA8F1662212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FD722124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_1059 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectHTTP::PerfectHTTP" /* PerfectHTTP */;
-			targetProxy = 4FA8F1672212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FD822124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_1060 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectNet::PerfectNet" /* PerfectNet */;
-			targetProxy = 4FA8F1682212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FD922124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_1061 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectCrypto::PerfectCrypto" /* PerfectCrypto */;
-			targetProxy = 4FA8F1692212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FDA22124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_1062 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "COpenSSL::COpenSSL" /* COpenSSL */;
-			targetProxy = 4FA8F16A2212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FDB22124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_1063 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectThread::PerfectThread" /* PerfectThread */;
-			targetProxy = 4FA8F16B2212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FDC22124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_1064 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectLib::PerfectLib" /* PerfectLib */;
-			targetProxy = 4FA8F16C2212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FDD22124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_1065 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectHTTPServer::PerfectCHTTPParser" /* PerfectCHTTPParser */;
-			targetProxy = 4FA8F16D2212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FDE22124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_1076 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "ShoppingList::ShoppingListTests" /* ShoppingListTests */;
-			targetProxy = 4FA8F1812212381E00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FF222124A3C00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_1103 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "ShoppingList::ShoppingList" /* ShoppingList */;
-			targetProxy = 4FA8F16E2212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FDF22124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_1104 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "SimpleLogger::SimpleLogger" /* SimpleLogger */;
-			targetProxy = 4FA8F16F2212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FE022124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_1105 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "MongoDBStORM::MongoDBStORM" /* MongoDBStORM */;
-			targetProxy = 4FA8F1702212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FE122124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_1106 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectMongoDB::PerfectMongoDB" /* PerfectMongoDB */;
-			targetProxy = 4FA8F1712212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FE222124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_1107 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "SwiftRandom::SwiftRandom" /* SwiftRandom */;
-			targetProxy = 4FA8F1722212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FE322124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_1108 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectLogger::PerfectLogger" /* PerfectLogger */;
-			targetProxy = 4FA8F1732212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FE422124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_1109 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectCURL::PerfectCURL" /* PerfectCURL */;
-			targetProxy = 4FA8F1742212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FE522124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_1110 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "StORM::StORM" /* StORM */;
-			targetProxy = 4FA8F1752212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FE622124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_1111 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "SwiftString::SwiftString" /* SwiftString */;
-			targetProxy = 4FA8F1762212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FE722124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_1112 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "SwiftMoment::SwiftMoment" /* SwiftMoment */;
-			targetProxy = 4FA8F1772212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FE822124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_1113 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectHTTPServer::PerfectHTTPServer" /* PerfectHTTPServer */;
-			targetProxy = 4FA8F1782212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FE922124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_1114 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectCZlib::PerfectCZlib" /* PerfectCZlib */;
-			targetProxy = 4FA8F1792212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FEA22124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_1115 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectHTTP::PerfectHTTP" /* PerfectHTTP */;
-			targetProxy = 4FA8F17A2212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FEB22124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_1116 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectNet::PerfectNet" /* PerfectNet */;
-			targetProxy = 4FA8F17B2212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FEC22124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_1117 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectCrypto::PerfectCrypto" /* PerfectCrypto */;
-			targetProxy = 4FA8F17C2212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FED22124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_1118 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "COpenSSL::COpenSSL" /* COpenSSL */;
-			targetProxy = 4FA8F17D2212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FEE22124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_1119 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectThread::PerfectThread" /* PerfectThread */;
-			targetProxy = 4FA8F17E2212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FEF22124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_1120 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectLib::PerfectLib" /* PerfectLib */;
-			targetProxy = 4FA8F17F2212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FF022124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_1121 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectHTTPServer::PerfectCHTTPParser" /* PerfectCHTTPParser */;
-			targetProxy = 4FA8F1802212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FF122124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_1155 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "SwiftString::SwiftString" /* SwiftString */;
-			targetProxy = 4FA8F1502212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FC122124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_1156 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "SwiftMoment::SwiftMoment" /* SwiftMoment */;
-			targetProxy = 4FA8F1512212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FC222124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_1157 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectLib::PerfectLib" /* PerfectLib */;
-			targetProxy = 4FA8F1522212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FC322124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_718 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectMongoDB::PerfectMongoDB" /* PerfectMongoDB */;
-			targetProxy = 4FA8F12C2212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1F9D22124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_720 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "SwiftRandom::SwiftRandom" /* SwiftRandom */;
-			targetProxy = 4FA8F12E2212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1F9F22124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_722 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectLogger::PerfectLogger" /* PerfectLogger */;
-			targetProxy = 4FA8F12F2212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FA022124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_724 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectCURL::PerfectCURL" /* PerfectCURL */;
-			targetProxy = 4FA8F1492212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FBA22124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_726 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectHTTP::PerfectHTTP" /* PerfectHTTP */;
-			targetProxy = 4FA8F14A2212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FBB22124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_728 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectNet::PerfectNet" /* PerfectNet */;
-			targetProxy = 4FA8F14B2212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FBC22124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_730 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectCrypto::PerfectCrypto" /* PerfectCrypto */;
-			targetProxy = 4FA8F14C2212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FBD22124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_732 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "COpenSSL::COpenSSL" /* COpenSSL */;
-			targetProxy = 4FA8F14D2212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FBE22124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_733 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectThread::PerfectThread" /* PerfectThread */;
-			targetProxy = 4FA8F14E2212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FBF22124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_735 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "StORM::StORM" /* StORM */;
-			targetProxy = 4FA8F14F2212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FC022124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_737 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "SwiftString::SwiftString" /* SwiftString */;
-			targetProxy = 4FA8F1532212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FC422124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_739 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "SwiftMoment::SwiftMoment" /* SwiftMoment */;
-			targetProxy = 4FA8F1542212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FC522124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_741 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectLib::PerfectLib" /* PerfectLib */;
-			targetProxy = 4FA8F1552212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FC622124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_772 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectHTTP::PerfectHTTP" /* PerfectHTTP */;
-			targetProxy = 4FA8F1312212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FA222124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_773 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectNet::PerfectNet" /* PerfectNet */;
-			targetProxy = 4FA8F13E2212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FAF22124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_774 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectCrypto::PerfectCrypto" /* PerfectCrypto */;
-			targetProxy = 4FA8F13F2212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FB022124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_775 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "COpenSSL::COpenSSL" /* COpenSSL */;
-			targetProxy = 4FA8F1402212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FB122124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_776 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectThread::PerfectThread" /* PerfectThread */;
-			targetProxy = 4FA8F1412212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FB222124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_777 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectLib::PerfectLib" /* PerfectLib */;
-			targetProxy = 4FA8F1422212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FB322124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_826 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "COpenSSL::COpenSSL" /* COpenSSL */;
-			targetProxy = 4FA8F1342212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FA522124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_827 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectThread::PerfectThread" /* PerfectThread */;
-			targetProxy = 4FA8F1352212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FA622124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_828 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectLib::PerfectLib" /* PerfectLib */;
-			targetProxy = 4FA8F1362212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FA722124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_855 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectNet::PerfectNet" /* PerfectNet */;
-			targetProxy = 4FA8F1322212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FA322124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_856 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectCrypto::PerfectCrypto" /* PerfectCrypto */;
-			targetProxy = 4FA8F13A2212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FAB22124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_857 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "COpenSSL::COpenSSL" /* COpenSSL */;
-			targetProxy = 4FA8F13B2212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FAC22124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_858 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectThread::PerfectThread" /* PerfectThread */;
-			targetProxy = 4FA8F13C2212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FAD22124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_859 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectLib::PerfectLib" /* PerfectLib */;
-			targetProxy = 4FA8F13D2212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FAE22124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_898 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectCZlib::PerfectCZlib" /* PerfectCZlib */;
-			targetProxy = 4FA8F15E2212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FCF22124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_899 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectHTTP::PerfectHTTP" /* PerfectHTTP */;
-			targetProxy = 4FA8F15F2212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FD022124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_900 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectNet::PerfectNet" /* PerfectNet */;
-			targetProxy = 4FA8F1602212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FD122124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_901 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectCrypto::PerfectCrypto" /* PerfectCrypto */;
-			targetProxy = 4FA8F1612212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FD222124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_902 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "COpenSSL::COpenSSL" /* COpenSSL */;
-			targetProxy = 4FA8F1622212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FD322124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_903 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectThread::PerfectThread" /* PerfectThread */;
-			targetProxy = 4FA8F1632212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FD422124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_904 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectLib::PerfectLib" /* PerfectLib */;
-			targetProxy = 4FA8F1642212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FD522124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_905 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectHTTPServer::PerfectCHTTPParser" /* PerfectCHTTPParser */;
-			targetProxy = 4FA8F1652212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FD622124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_946 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectCURL::PerfectCURL" /* PerfectCURL */;
-			targetProxy = 4FA8F1302212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FA122124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_947 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectHTTP::PerfectHTTP" /* PerfectHTTP */;
-			targetProxy = 4FA8F1432212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FB422124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_948 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectNet::PerfectNet" /* PerfectNet */;
-			targetProxy = 4FA8F1442212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FB522124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_949 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectCrypto::PerfectCrypto" /* PerfectCrypto */;
-			targetProxy = 4FA8F1452212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FB622124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_950 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "COpenSSL::COpenSSL" /* COpenSSL */;
-			targetProxy = 4FA8F1462212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FB722124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_951 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectThread::PerfectThread" /* PerfectThread */;
-			targetProxy = 4FA8F1472212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FB822124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_952 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectLib::PerfectLib" /* PerfectLib */;
-			targetProxy = 4FA8F1482212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FB922124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_973 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectLib::PerfectLib" /* PerfectLib */;
-			targetProxy = 4FA8F12D2212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1F9E22124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_996 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectCrypto::PerfectCrypto" /* PerfectCrypto */;
-			targetProxy = 4FA8F1332212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FA422124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_997 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "COpenSSL::COpenSSL" /* COpenSSL */;
-			targetProxy = 4FA8F1372212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FA822124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_998 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectThread::PerfectThread" /* PerfectThread */;
-			targetProxy = 4FA8F1382212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FA922124A3B00917377 /* PBXContainerItemProxy */;
 		};
 		OBJ_999 /* PBXTargetDependency */ = {
 			isa = PBXTargetDependency;
 			target = "PerfectLib::PerfectLib" /* PerfectLib */;
-			targetProxy = 4FA8F1392212381D00E22254 /* PBXContainerItemProxy */;
+			targetProxy = 4FAB1FAA22124A3B00917377 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
 
@@ -4412,19 +4461,18 @@
 		OBJ_1022 /* Debug */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ENABLE_TESTABILITY = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PLATFORM_DIR)/Developer/Library/Frameworks",
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/Perfect-CMongo.git-2734694696551091452",
-					"$(SRCROOT)/.build/checkouts/Perfect-CBSON.git--6440318697027759145",
-					"$(SRCROOT)/.build/checkouts/Perfect-libcurl.git--2886887543522804251",
-					"$(SRCROOT)/.build/checkouts/Perfect-CZlib-src.git--666575274036735215/PerfectCZlib/include",
-					"$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git--5510611872721463830/COpenSSL/include",
-					"$(SRCROOT)/.build/checkouts/Perfect-HTTPServer.git--2284898303533995467/Sources/PerfectCHTTPParser/include",
+					"$(SRCROOT)/.build/checkouts/Perfect-CMongo.git--7131994973624083496",
+					"$(SRCROOT)/.build/checkouts/Perfect-CBSON.git--2903067413845663081",
+					"$(SRCROOT)/.build/checkouts/Perfect-libcurl.git-1713728089575180459",
+					"$(SRCROOT)/.build/checkouts/Perfect-CZlib-src.git--2152667263506572231/PerfectCZlib/include",
+					"$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git-754061778669956999/COpenSSL/include",
+					"$(SRCROOT)/.build/checkouts/Perfect-HTTPServer.git--4012718610184643329/Sources/PerfectCHTTPParser/include",
 				);
 				INFOPLIST_FILE = ShoppingList.xcodeproj/ShoppingList_Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) $(TOOLCHAIN_DIR)/usr/lib/swift/macosx @executable_path";
@@ -4444,7 +4492,7 @@
 					"-lbson-1.0",
 					"-lcurl",
 				);
-				OTHER_SWIFT_FLAGS = "$(inherited) -I/usr/local/Cellar/mongo-c-driver/1.12.0/include/libmongoc-1.0 -I/usr/local/Cellar/mongo-c-driver/1.12.0/include/libbson-1.0 -I/usr/local/Cellar/mongo-c-driver/1.12.0/include/libbson-1.0 -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-CZlib-src.git--666575274036735215/PerfectCZlib/include/module.modulemap -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git--5510611872721463830/COpenSSL/include/module.modulemap -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-HTTPServer.git--2284898303533995467/Sources/PerfectCHTTPParser/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -I/usr/local/Cellar/mongo-c-driver/1.12.0/include/libmongoc-1.0 -I/usr/local/Cellar/mongo-c-driver/1.12.0/include/libbson-1.0 -I/usr/local/Cellar/mongo-c-driver/1.12.0/include/libbson-1.0 -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-CZlib-src.git--2152667263506572231/PerfectCZlib/include/module.modulemap -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git-754061778669956999/COpenSSL/include/module.modulemap -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-HTTPServer.git--4012718610184643329/Sources/PerfectCHTTPParser/include/module.modulemap";
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited)";
 				SWIFT_FORCE_DYNAMIC_LINK_STDLIB = YES;
 				SWIFT_FORCE_STATIC_LINK_STDLIB = NO;
@@ -4456,19 +4504,18 @@
 		OBJ_1023 /* Release */ = {
 			isa = XCBuildConfiguration;
 			buildSettings = {
-				ENABLE_TESTABILITY = YES;
 				FRAMEWORK_SEARCH_PATHS = (
 					"$(inherited)",
 					"$(PLATFORM_DIR)/Developer/Library/Frameworks",
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/Perfect-CMongo.git-2734694696551091452",
-					"$(SRCROOT)/.build/checkouts/Perfect-CBSON.git--6440318697027759145",
-					"$(SRCROOT)/.build/checkouts/Perfect-libcurl.git--2886887543522804251",
-					"$(SRCROOT)/.build/checkouts/Perfect-CZlib-src.git--666575274036735215/PerfectCZlib/include",
-					"$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git--5510611872721463830/COpenSSL/include",
-					"$(SRCROOT)/.build/checkouts/Perfect-HTTPServer.git--2284898303533995467/Sources/PerfectCHTTPParser/include",
+					"$(SRCROOT)/.build/checkouts/Perfect-CMongo.git--7131994973624083496",
+					"$(SRCROOT)/.build/checkouts/Perfect-CBSON.git--2903067413845663081",
+					"$(SRCROOT)/.build/checkouts/Perfect-libcurl.git-1713728089575180459",
+					"$(SRCROOT)/.build/checkouts/Perfect-CZlib-src.git--2152667263506572231/PerfectCZlib/include",
+					"$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git-754061778669956999/COpenSSL/include",
+					"$(SRCROOT)/.build/checkouts/Perfect-HTTPServer.git--4012718610184643329/Sources/PerfectCHTTPParser/include",
 				);
 				INFOPLIST_FILE = ShoppingList.xcodeproj/ShoppingList_Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) $(TOOLCHAIN_DIR)/usr/lib/swift/macosx @executable_path";
@@ -4488,7 +4535,7 @@
 					"-lbson-1.0",
 					"-lcurl",
 				);
-				OTHER_SWIFT_FLAGS = "$(inherited) -I/usr/local/Cellar/mongo-c-driver/1.12.0/include/libmongoc-1.0 -I/usr/local/Cellar/mongo-c-driver/1.12.0/include/libbson-1.0 -I/usr/local/Cellar/mongo-c-driver/1.12.0/include/libbson-1.0 -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-CZlib-src.git--666575274036735215/PerfectCZlib/include/module.modulemap -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git--5510611872721463830/COpenSSL/include/module.modulemap -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-HTTPServer.git--2284898303533995467/Sources/PerfectCHTTPParser/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -I/usr/local/Cellar/mongo-c-driver/1.12.0/include/libmongoc-1.0 -I/usr/local/Cellar/mongo-c-driver/1.12.0/include/libbson-1.0 -I/usr/local/Cellar/mongo-c-driver/1.12.0/include/libbson-1.0 -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-CZlib-src.git--2152667263506572231/PerfectCZlib/include/module.modulemap -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git-754061778669956999/COpenSSL/include/module.modulemap -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-HTTPServer.git--4012718610184643329/Sources/PerfectCHTTPParser/include/module.modulemap";
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited)";
 				SWIFT_FORCE_DYNAMIC_LINK_STDLIB = YES;
 				SWIFT_FORCE_STATIC_LINK_STDLIB = NO;
@@ -4538,12 +4585,12 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/Perfect-CMongo.git-2734694696551091452",
-					"$(SRCROOT)/.build/checkouts/Perfect-CBSON.git--6440318697027759145",
-					"$(SRCROOT)/.build/checkouts/Perfect-libcurl.git--2886887543522804251",
-					"$(SRCROOT)/.build/checkouts/Perfect-CZlib-src.git--666575274036735215/PerfectCZlib/include",
-					"$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git--5510611872721463830/COpenSSL/include",
-					"$(SRCROOT)/.build/checkouts/Perfect-HTTPServer.git--2284898303533995467/Sources/PerfectCHTTPParser/include",
+					"$(SRCROOT)/.build/checkouts/Perfect-CMongo.git--7131994973624083496",
+					"$(SRCROOT)/.build/checkouts/Perfect-CBSON.git--2903067413845663081",
+					"$(SRCROOT)/.build/checkouts/Perfect-libcurl.git-1713728089575180459",
+					"$(SRCROOT)/.build/checkouts/Perfect-CZlib-src.git--2152667263506572231/PerfectCZlib/include",
+					"$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git-754061778669956999/COpenSSL/include",
+					"$(SRCROOT)/.build/checkouts/Perfect-HTTPServer.git--4012718610184643329/Sources/PerfectCHTTPParser/include",
 				);
 				INFOPLIST_FILE = ShoppingList.xcodeproj/ShoppingListTests_Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @loader_path/../Frameworks @loader_path/Frameworks";
@@ -4563,7 +4610,7 @@
 					"-lbson-1.0",
 					"-lcurl",
 				);
-				OTHER_SWIFT_FLAGS = "$(inherited) -I/usr/local/Cellar/mongo-c-driver/1.12.0/include/libmongoc-1.0 -I/usr/local/Cellar/mongo-c-driver/1.12.0/include/libbson-1.0 -I/usr/local/Cellar/mongo-c-driver/1.12.0/include/libbson-1.0 -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-CZlib-src.git--666575274036735215/PerfectCZlib/include/module.modulemap -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git--5510611872721463830/COpenSSL/include/module.modulemap -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-HTTPServer.git--2284898303533995467/Sources/PerfectCHTTPParser/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -I/usr/local/Cellar/mongo-c-driver/1.12.0/include/libmongoc-1.0 -I/usr/local/Cellar/mongo-c-driver/1.12.0/include/libbson-1.0 -I/usr/local/Cellar/mongo-c-driver/1.12.0/include/libbson-1.0 -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-CZlib-src.git--2152667263506572231/PerfectCZlib/include/module.modulemap -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git-754061778669956999/COpenSSL/include/module.modulemap -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-HTTPServer.git--4012718610184643329/Sources/PerfectCHTTPParser/include/module.modulemap";
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited)";
 				SWIFT_VERSION = 4.2;
 				TARGET_NAME = ShoppingListTests;
@@ -4581,12 +4628,12 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/Perfect-CMongo.git-2734694696551091452",
-					"$(SRCROOT)/.build/checkouts/Perfect-CBSON.git--6440318697027759145",
-					"$(SRCROOT)/.build/checkouts/Perfect-libcurl.git--2886887543522804251",
-					"$(SRCROOT)/.build/checkouts/Perfect-CZlib-src.git--666575274036735215/PerfectCZlib/include",
-					"$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git--5510611872721463830/COpenSSL/include",
-					"$(SRCROOT)/.build/checkouts/Perfect-HTTPServer.git--2284898303533995467/Sources/PerfectCHTTPParser/include",
+					"$(SRCROOT)/.build/checkouts/Perfect-CMongo.git--7131994973624083496",
+					"$(SRCROOT)/.build/checkouts/Perfect-CBSON.git--2903067413845663081",
+					"$(SRCROOT)/.build/checkouts/Perfect-libcurl.git-1713728089575180459",
+					"$(SRCROOT)/.build/checkouts/Perfect-CZlib-src.git--2152667263506572231/PerfectCZlib/include",
+					"$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git-754061778669956999/COpenSSL/include",
+					"$(SRCROOT)/.build/checkouts/Perfect-HTTPServer.git--4012718610184643329/Sources/PerfectCHTTPParser/include",
 				);
 				INFOPLIST_FILE = ShoppingList.xcodeproj/ShoppingListTests_Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @loader_path/../Frameworks @loader_path/Frameworks";
@@ -4606,7 +4653,7 @@
 					"-lbson-1.0",
 					"-lcurl",
 				);
-				OTHER_SWIFT_FLAGS = "$(inherited) -I/usr/local/Cellar/mongo-c-driver/1.12.0/include/libmongoc-1.0 -I/usr/local/Cellar/mongo-c-driver/1.12.0/include/libbson-1.0 -I/usr/local/Cellar/mongo-c-driver/1.12.0/include/libbson-1.0 -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-CZlib-src.git--666575274036735215/PerfectCZlib/include/module.modulemap -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git--5510611872721463830/COpenSSL/include/module.modulemap -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-HTTPServer.git--2284898303533995467/Sources/PerfectCHTTPParser/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -I/usr/local/Cellar/mongo-c-driver/1.12.0/include/libmongoc-1.0 -I/usr/local/Cellar/mongo-c-driver/1.12.0/include/libbson-1.0 -I/usr/local/Cellar/mongo-c-driver/1.12.0/include/libbson-1.0 -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-CZlib-src.git--2152667263506572231/PerfectCZlib/include/module.modulemap -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git-754061778669956999/COpenSSL/include/module.modulemap -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-HTTPServer.git--4012718610184643329/Sources/PerfectCHTTPParser/include/module.modulemap";
 				SWIFT_ACTIVE_COMPILATION_CONDITIONS = "$(inherited)";
 				SWIFT_VERSION = 4.2;
 				TARGET_NAME = ShoppingListTests;
@@ -5000,7 +5047,7 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git--5510611872721463830/COpenSSL/include",
+					"$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git-754061778669956999/COpenSSL/include",
 				);
 				INFOPLIST_FILE = ShoppingList.xcodeproj/COpenSSL_Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) $(TOOLCHAIN_DIR)/usr/lib/swift/macosx";
@@ -5027,7 +5074,7 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git--5510611872721463830/COpenSSL/include",
+					"$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git-754061778669956999/COpenSSL/include",
 				);
 				INFOPLIST_FILE = ShoppingList.xcodeproj/COpenSSL_Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) $(TOOLCHAIN_DIR)/usr/lib/swift/macosx";
@@ -5071,10 +5118,10 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/Perfect-CMongo.git-2734694696551091452",
-					"$(SRCROOT)/.build/checkouts/Perfect-CBSON.git--6440318697027759145",
-					"$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git--5510611872721463830/COpenSSL/include",
-					"$(SRCROOT)/.build/checkouts/Perfect-libcurl.git--2886887543522804251",
+					"$(SRCROOT)/.build/checkouts/Perfect-CMongo.git--7131994973624083496",
+					"$(SRCROOT)/.build/checkouts/Perfect-CBSON.git--2903067413845663081",
+					"$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git-754061778669956999/COpenSSL/include",
+					"$(SRCROOT)/.build/checkouts/Perfect-libcurl.git-1713728089575180459",
 				);
 				INFOPLIST_FILE = ShoppingList.xcodeproj/MongoDBStORM_Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) $(TOOLCHAIN_DIR)/usr/lib/swift/macosx";
@@ -5094,7 +5141,7 @@
 					"-lbson-1.0",
 					"-lcurl",
 				);
-				OTHER_SWIFT_FLAGS = "$(inherited) -I/usr/local/Cellar/mongo-c-driver/1.12.0/include/libmongoc-1.0 -I/usr/local/Cellar/mongo-c-driver/1.12.0/include/libbson-1.0 -I/usr/local/Cellar/mongo-c-driver/1.12.0/include/libbson-1.0 -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git--5510611872721463830/COpenSSL/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -I/usr/local/Cellar/mongo-c-driver/1.12.0/include/libmongoc-1.0 -I/usr/local/Cellar/mongo-c-driver/1.12.0/include/libbson-1.0 -I/usr/local/Cellar/mongo-c-driver/1.12.0/include/libbson-1.0 -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git-754061778669956999/COpenSSL/include/module.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = MongoDBStORM;
 				PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -5115,10 +5162,10 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/Perfect-CMongo.git-2734694696551091452",
-					"$(SRCROOT)/.build/checkouts/Perfect-CBSON.git--6440318697027759145",
-					"$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git--5510611872721463830/COpenSSL/include",
-					"$(SRCROOT)/.build/checkouts/Perfect-libcurl.git--2886887543522804251",
+					"$(SRCROOT)/.build/checkouts/Perfect-CMongo.git--7131994973624083496",
+					"$(SRCROOT)/.build/checkouts/Perfect-CBSON.git--2903067413845663081",
+					"$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git-754061778669956999/COpenSSL/include",
+					"$(SRCROOT)/.build/checkouts/Perfect-libcurl.git-1713728089575180459",
 				);
 				INFOPLIST_FILE = ShoppingList.xcodeproj/MongoDBStORM_Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) $(TOOLCHAIN_DIR)/usr/lib/swift/macosx";
@@ -5138,7 +5185,7 @@
 					"-lbson-1.0",
 					"-lcurl",
 				);
-				OTHER_SWIFT_FLAGS = "$(inherited) -I/usr/local/Cellar/mongo-c-driver/1.12.0/include/libmongoc-1.0 -I/usr/local/Cellar/mongo-c-driver/1.12.0/include/libbson-1.0 -I/usr/local/Cellar/mongo-c-driver/1.12.0/include/libbson-1.0 -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git--5510611872721463830/COpenSSL/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -I/usr/local/Cellar/mongo-c-driver/1.12.0/include/libmongoc-1.0 -I/usr/local/Cellar/mongo-c-driver/1.12.0/include/libbson-1.0 -I/usr/local/Cellar/mongo-c-driver/1.12.0/include/libbson-1.0 -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git-754061778669956999/COpenSSL/include/module.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = MongoDBStORM;
 				PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -5178,7 +5225,7 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/Perfect-HTTPServer.git--2284898303533995467/Sources/PerfectCHTTPParser/include",
+					"$(SRCROOT)/.build/checkouts/Perfect-HTTPServer.git--4012718610184643329/Sources/PerfectCHTTPParser/include",
 				);
 				INFOPLIST_FILE = ShoppingList.xcodeproj/PerfectCHTTPParser_Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) $(TOOLCHAIN_DIR)/usr/lib/swift/macosx";
@@ -5205,7 +5252,7 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/Perfect-HTTPServer.git--2284898303533995467/Sources/PerfectCHTTPParser/include",
+					"$(SRCROOT)/.build/checkouts/Perfect-HTTPServer.git--4012718610184643329/Sources/PerfectCHTTPParser/include",
 				);
 				INFOPLIST_FILE = ShoppingList.xcodeproj/PerfectCHTTPParser_Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) $(TOOLCHAIN_DIR)/usr/lib/swift/macosx";
@@ -5231,8 +5278,8 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git--5510611872721463830/COpenSSL/include",
-					"$(SRCROOT)/.build/checkouts/Perfect-libcurl.git--2886887543522804251",
+					"$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git-754061778669956999/COpenSSL/include",
+					"$(SRCROOT)/.build/checkouts/Perfect-libcurl.git-1713728089575180459",
 				);
 				INFOPLIST_FILE = ShoppingList.xcodeproj/PerfectCURL_Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) $(TOOLCHAIN_DIR)/usr/lib/swift/macosx";
@@ -5241,7 +5288,7 @@
 					"$(inherited)",
 					"-lcurl",
 				);
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git--5510611872721463830/COpenSSL/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git-754061778669956999/COpenSSL/include/module.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = PerfectCURL;
 				PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -5262,8 +5309,8 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git--5510611872721463830/COpenSSL/include",
-					"$(SRCROOT)/.build/checkouts/Perfect-libcurl.git--2886887543522804251",
+					"$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git-754061778669956999/COpenSSL/include",
+					"$(SRCROOT)/.build/checkouts/Perfect-libcurl.git-1713728089575180459",
 				);
 				INFOPLIST_FILE = ShoppingList.xcodeproj/PerfectCURL_Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) $(TOOLCHAIN_DIR)/usr/lib/swift/macosx";
@@ -5272,7 +5319,7 @@
 					"$(inherited)",
 					"-lcurl",
 				);
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git--5510611872721463830/COpenSSL/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git-754061778669956999/COpenSSL/include/module.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = PerfectCURL;
 				PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -5312,7 +5359,7 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/Perfect-CZlib-src.git--666575274036735215/PerfectCZlib/include",
+					"$(SRCROOT)/.build/checkouts/Perfect-CZlib-src.git--2152667263506572231/PerfectCZlib/include",
 				);
 				INFOPLIST_FILE = ShoppingList.xcodeproj/PerfectCZlib_Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) $(TOOLCHAIN_DIR)/usr/lib/swift/macosx";
@@ -5339,7 +5386,7 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/Perfect-CZlib-src.git--666575274036735215/PerfectCZlib/include",
+					"$(SRCROOT)/.build/checkouts/Perfect-CZlib-src.git--2152667263506572231/PerfectCZlib/include",
 				);
 				INFOPLIST_FILE = ShoppingList.xcodeproj/PerfectCZlib_Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) $(TOOLCHAIN_DIR)/usr/lib/swift/macosx";
@@ -5383,13 +5430,13 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git--5510611872721463830/COpenSSL/include",
+					"$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git-754061778669956999/COpenSSL/include",
 				);
 				INFOPLIST_FILE = ShoppingList.xcodeproj/PerfectCrypto_Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) $(TOOLCHAIN_DIR)/usr/lib/swift/macosx";
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git--5510611872721463830/COpenSSL/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git-754061778669956999/COpenSSL/include/module.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = PerfectCrypto;
 				PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -5410,13 +5457,13 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git--5510611872721463830/COpenSSL/include",
+					"$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git-754061778669956999/COpenSSL/include",
 				);
 				INFOPLIST_FILE = ShoppingList.xcodeproj/PerfectCrypto_Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) $(TOOLCHAIN_DIR)/usr/lib/swift/macosx";
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git--5510611872721463830/COpenSSL/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git-754061778669956999/COpenSSL/include/module.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = PerfectCrypto;
 				PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -5455,13 +5502,13 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git--5510611872721463830/COpenSSL/include",
+					"$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git-754061778669956999/COpenSSL/include",
 				);
 				INFOPLIST_FILE = ShoppingList.xcodeproj/PerfectHTTP_Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) $(TOOLCHAIN_DIR)/usr/lib/swift/macosx";
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git--5510611872721463830/COpenSSL/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git-754061778669956999/COpenSSL/include/module.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = PerfectHTTP;
 				PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -5482,13 +5529,13 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git--5510611872721463830/COpenSSL/include",
+					"$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git-754061778669956999/COpenSSL/include",
 				);
 				INFOPLIST_FILE = ShoppingList.xcodeproj/PerfectHTTP_Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) $(TOOLCHAIN_DIR)/usr/lib/swift/macosx";
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git--5510611872721463830/COpenSSL/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git-754061778669956999/COpenSSL/include/module.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = PerfectHTTP;
 				PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -5527,15 +5574,15 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/Perfect-CZlib-src.git--666575274036735215/PerfectCZlib/include",
-					"$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git--5510611872721463830/COpenSSL/include",
-					"$(SRCROOT)/.build/checkouts/Perfect-HTTPServer.git--2284898303533995467/Sources/PerfectCHTTPParser/include",
+					"$(SRCROOT)/.build/checkouts/Perfect-CZlib-src.git--2152667263506572231/PerfectCZlib/include",
+					"$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git-754061778669956999/COpenSSL/include",
+					"$(SRCROOT)/.build/checkouts/Perfect-HTTPServer.git--4012718610184643329/Sources/PerfectCHTTPParser/include",
 				);
 				INFOPLIST_FILE = ShoppingList.xcodeproj/PerfectHTTPServer_Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) $(TOOLCHAIN_DIR)/usr/lib/swift/macosx";
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-CZlib-src.git--666575274036735215/PerfectCZlib/include/module.modulemap -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git--5510611872721463830/COpenSSL/include/module.modulemap -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-HTTPServer.git--2284898303533995467/Sources/PerfectCHTTPParser/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-CZlib-src.git--2152667263506572231/PerfectCZlib/include/module.modulemap -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git-754061778669956999/COpenSSL/include/module.modulemap -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-HTTPServer.git--4012718610184643329/Sources/PerfectCHTTPParser/include/module.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = PerfectHTTPServer;
 				PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -5556,15 +5603,15 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/Perfect-CZlib-src.git--666575274036735215/PerfectCZlib/include",
-					"$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git--5510611872721463830/COpenSSL/include",
-					"$(SRCROOT)/.build/checkouts/Perfect-HTTPServer.git--2284898303533995467/Sources/PerfectCHTTPParser/include",
+					"$(SRCROOT)/.build/checkouts/Perfect-CZlib-src.git--2152667263506572231/PerfectCZlib/include",
+					"$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git-754061778669956999/COpenSSL/include",
+					"$(SRCROOT)/.build/checkouts/Perfect-HTTPServer.git--4012718610184643329/Sources/PerfectCHTTPParser/include",
 				);
 				INFOPLIST_FILE = ShoppingList.xcodeproj/PerfectHTTPServer_Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) $(TOOLCHAIN_DIR)/usr/lib/swift/macosx";
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-CZlib-src.git--666575274036735215/PerfectCZlib/include/module.modulemap -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git--5510611872721463830/COpenSSL/include/module.modulemap -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-HTTPServer.git--2284898303533995467/Sources/PerfectCHTTPParser/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-CZlib-src.git--2152667263506572231/PerfectCZlib/include/module.modulemap -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git-754061778669956999/COpenSSL/include/module.modulemap -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-HTTPServer.git--4012718610184643329/Sources/PerfectCHTTPParser/include/module.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = PerfectHTTPServer;
 				PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -5669,8 +5716,8 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git--5510611872721463830/COpenSSL/include",
-					"$(SRCROOT)/.build/checkouts/Perfect-libcurl.git--2886887543522804251",
+					"$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git-754061778669956999/COpenSSL/include",
+					"$(SRCROOT)/.build/checkouts/Perfect-libcurl.git-1713728089575180459",
 				);
 				INFOPLIST_FILE = ShoppingList.xcodeproj/PerfectLogger_Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) $(TOOLCHAIN_DIR)/usr/lib/swift/macosx";
@@ -5679,7 +5726,7 @@
 					"$(inherited)",
 					"-lcurl",
 				);
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git--5510611872721463830/COpenSSL/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git-754061778669956999/COpenSSL/include/module.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = PerfectLogger;
 				PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -5700,8 +5747,8 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git--5510611872721463830/COpenSSL/include",
-					"$(SRCROOT)/.build/checkouts/Perfect-libcurl.git--2886887543522804251",
+					"$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git-754061778669956999/COpenSSL/include",
+					"$(SRCROOT)/.build/checkouts/Perfect-libcurl.git-1713728089575180459",
 				);
 				INFOPLIST_FILE = ShoppingList.xcodeproj/PerfectLogger_Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) $(TOOLCHAIN_DIR)/usr/lib/swift/macosx";
@@ -5710,7 +5757,7 @@
 					"$(inherited)",
 					"-lcurl",
 				);
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git--5510611872721463830/COpenSSL/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git-754061778669956999/COpenSSL/include/module.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = PerfectLogger;
 				PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -5749,8 +5796,8 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/Perfect-CMongo.git-2734694696551091452",
-					"$(SRCROOT)/.build/checkouts/Perfect-CBSON.git--6440318697027759145",
+					"$(SRCROOT)/.build/checkouts/Perfect-CMongo.git--7131994973624083496",
+					"$(SRCROOT)/.build/checkouts/Perfect-CBSON.git--2903067413845663081",
 				);
 				INFOPLIST_FILE = ShoppingList.xcodeproj/PerfectMongoDB_Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) $(TOOLCHAIN_DIR)/usr/lib/swift/macosx";
@@ -5790,8 +5837,8 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/Perfect-CMongo.git-2734694696551091452",
-					"$(SRCROOT)/.build/checkouts/Perfect-CBSON.git--6440318697027759145",
+					"$(SRCROOT)/.build/checkouts/Perfect-CMongo.git--7131994973624083496",
+					"$(SRCROOT)/.build/checkouts/Perfect-CBSON.git--2903067413845663081",
 				);
 				INFOPLIST_FILE = ShoppingList.xcodeproj/PerfectMongoDB_Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) $(TOOLCHAIN_DIR)/usr/lib/swift/macosx";
@@ -5849,13 +5896,13 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git--5510611872721463830/COpenSSL/include",
+					"$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git-754061778669956999/COpenSSL/include",
 				);
 				INFOPLIST_FILE = ShoppingList.xcodeproj/PerfectNet_Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) $(TOOLCHAIN_DIR)/usr/lib/swift/macosx";
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git--5510611872721463830/COpenSSL/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git-754061778669956999/COpenSSL/include/module.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = PerfectNet;
 				PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
@@ -5876,13 +5923,13 @@
 				);
 				HEADER_SEARCH_PATHS = (
 					"$(inherited)",
-					"$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git--5510611872721463830/COpenSSL/include",
+					"$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git-754061778669956999/COpenSSL/include",
 				);
 				INFOPLIST_FILE = ShoppingList.xcodeproj/PerfectNet_Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) $(TOOLCHAIN_DIR)/usr/lib/swift/macosx";
 				OTHER_CFLAGS = "$(inherited)";
 				OTHER_LDFLAGS = "$(inherited)";
-				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git--5510611872721463830/COpenSSL/include/module.modulemap";
+				OTHER_SWIFT_FLAGS = "$(inherited) -Xcc -fmodule-map-file=$(SRCROOT)/.build/checkouts/Perfect-COpenSSL.git-754061778669956999/COpenSSL/include/module.modulemap";
 				PRODUCT_BUNDLE_IDENTIFIER = PerfectNet;
 				PRODUCT_MODULE_NAME = "$(TARGET_NAME:c99extidentifier)";
 				PRODUCT_NAME = "$(TARGET_NAME:c99extidentifier)";
