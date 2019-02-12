@@ -1,2 +1,3 @@
-# Swift sample app using Perfect.
+# ShoppingList
 
+ShoppingList application based on Perfect Template project
