@@ -28,6 +28,16 @@
       selectedLauncherIdentifier = "Xcode.DebuggerFoundation.Launcher.LLDB"
       shouldUseLaunchSchemeArgsEnv = "YES">
       <Testables>
+         <TestableReference
+            skipped = "NO">
+            <BuildableReference
+               BuildableIdentifier = "primary"
+               BlueprintIdentifier = "ShoppingList::ShoppingListTests"
+               BuildableName = "ShoppingListTests.xctest"
+               BlueprintName = "ShoppingListTests"
+               ReferencedContainer = "container:ShoppingList.xcodeproj">
+            </BuildableReference>
+         </TestableReference>
       </Testables>
       <AdditionalOptions>
       </AdditionalOptions>
