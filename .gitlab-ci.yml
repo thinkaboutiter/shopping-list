@@ -16,6 +16,7 @@ stages:
 test_project:
   stage: test
   script:
+    - swift package clean
     - swift test
   tags:
     - swift
