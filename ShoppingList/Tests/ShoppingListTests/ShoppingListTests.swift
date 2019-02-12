@@ -1,12 +1,11 @@
 import XCTest
-@testable import ShoppingList
+import class Foundation.Bundle
 
 final class ShoppingListTests: XCTestCase {
-    
+  
     func testExample() throws {
         // sample test
-        let result = 0
-        XCTAssertEqual(result, 0, "Ooops!")
+        XCTAssertEqual(0, 0)
     }
 
     /// Returns path to the built products directory.
