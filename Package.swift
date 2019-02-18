@@ -23,13 +23,15 @@ let package = Package(
                 "PerfectHTTPServer",
                 "MongoDBStORM",
                 "SimpleLogger"
-            ]
+            ],
+            path: "Sources"
         ),
         .testTarget(
             name: "ShoppingListTests",
             dependencies: [
                 "ShoppingList",
-            ]
+            ],
+            path: "Tests"
         )
     ]
 )
