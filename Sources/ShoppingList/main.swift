@@ -23,6 +23,7 @@ fileprivate func configure_simpleLogger() {
     let logsDirectoryPath: String = "/var/log/shopping-list/"
     Logger.setLogsDirectoryPath(logsDirectoryPath)
     Logger.update_fileLogging(.multipleFiles)
+    Logger.use_delimiter("->")
 }
 
 fileprivate func configure_3d_parties() {
@@ -31,15 +32,16 @@ fileprivate func configure_3d_parties() {
 
 fileprivate func log_configurations() {
     let message: String = """
-    Server started
+    Configurations:
+    Server:
     port=\(server.serverPort)
     
-    Database
+    Database:
     host=\(MongoDBConnection.host)
     port=\(MongoDBConnection.port)
     database=\(MongoDBConnection.database)
     """
-    Logger.general.message("Configurations:").object(message)
+    Logger.general.message(message)
 }
 
 // execute configurations
