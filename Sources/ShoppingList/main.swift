@@ -23,7 +23,8 @@ fileprivate func configure_simpleLogger() {
     let logsDirectoryPath: String = "/var/log/shopping-list/"
     Logger.setLogsDirectoryPath(logsDirectoryPath)
     Logger.update_fileLogging(.multipleFiles)
-    Logger.use_delimiter("->")
+    Logger.use_delimiter(">")
+    Logger.use_prefix(.ascii)
 }
 
 fileprivate func configure_3d_parties() {
