@@ -8,7 +8,7 @@ version: "3.7"
 services: 
 
   shopping-list:
-    image: boyankov/shopping-list:mongo-4-xenial-internal-logging
+    image: boyankov/shopping-list:multiple-files-logging
     ports:
       - 80:8080
     networks:
