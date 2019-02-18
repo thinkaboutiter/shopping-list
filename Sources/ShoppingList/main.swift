@@ -20,16 +20,9 @@ server.addRoutes(Routes(basic.routes))
 
 // MARK: - Configurations
 fileprivate func configure_simpleLogger() {
-    guard let valid_directoryPath: String = Logger.currentDirectoryPath() else {
-        let message: String = "Unable to obtain valid directory path!"
-        Logger.error.message(message)
-        return
-    }
-    let logsDirectoryPath: String = "\(valid_directoryPath)/logs"
+    let logsDirectoryPath: String = "/var/log/shopping-list/"
     Logger.setLogsDirectoryPath(logsDirectoryPath)
-    Logger.setLogFileName("application.log")
-    Logger.setLogFileMaxSizeInBytes(1024*10)
-    Logger.update_shouldLogToFile(true)
+    Logger.update_fileLogging(.multipleFiles)
 }
 
 fileprivate func configure_3d_parties() {
