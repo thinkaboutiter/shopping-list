@@ -29,8 +29,22 @@ fileprivate func configure_3d_parties() {
     configure_simpleLogger()
 }
 
+fileprivate func log_configurations() {
+    let message: String = """
+    Server started
+    port=\(server.serverPort)
+    
+    Database
+    host=\(MongoDBConnection.host)
+    port=\(MongoDBConnection.port)
+    database=\(MongoDBConnection.database)
+    """
+    Logger.general.message("Configurations:").object(message)
+}
+
 // execute configurations
 configure_3d_parties()
+log_configurations()
 
 // MARK: - Start server
 do {
