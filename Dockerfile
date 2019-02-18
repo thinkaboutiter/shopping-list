@@ -10,7 +10,8 @@ libmongoc-dev \
 libbson-dev \
 iputils-ping \
 tree \
-mc
+mc \
+nano
 
 # Expose default port for App Engine
 EXPOSE 8080
@@ -19,8 +20,12 @@ EXPOSE 8080
 WORKDIR /opt/ShoppingList/Sources
 COPY Sources/ .
 
+# we are using custom manifest file for deploy
 WORKDIR /opt/ShoppingList
-COPY Package.swift .
+COPY Package-deploy.swift .
+
+# rename custom manifest file to match its default name
+RUN mv Package-deploy.swift Package.swift
 
 # Release build
 # RUN swift build -c release -Xswiftc -static-stdlib

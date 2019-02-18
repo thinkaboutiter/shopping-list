@@ -26,12 +26,12 @@ let package = Package(
             ],
             path: "Sources"
         ),
-        .testTarget(
-            name: "ShoppingListTests",
-            dependencies: [
-                "ShoppingList",
-            ],
-            path: "Tests"
-        )
+        // .testTarget(
+        //     name: "ShoppingListTests",
+        //     dependencies: [
+        //         "ShoppingList",
+        //     ],
+        //     path: "Tests"
+        // )
     ]
 )
