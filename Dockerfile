@@ -10,7 +10,8 @@ libmongoc-dev \
 libbson-dev \
 iputils-ping \
 tree \
-mc
+mc \
+nano
 
 # Expose default port for App Engine
 EXPOSE 8080
