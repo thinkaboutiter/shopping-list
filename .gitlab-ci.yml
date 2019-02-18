@@ -10,6 +10,9 @@ build_project:
   tags:
     - swift
     - shopping-list
+  only:
+    - master
+    - develop
 
 test_project:
   stage: test
@@ -19,3 +22,6 @@ test_project:
   tags:
     - swift
     - shopping-list
+  only:
+    - master
+    - develop
