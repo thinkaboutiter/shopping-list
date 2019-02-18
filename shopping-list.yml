@@ -16,6 +16,8 @@ services:
     deploy:
       restart_policy:
         condition: on-failure
+    volumes:
+      - /var/log/:/var/log
   
   mongo:
     image: boyankov/mongo:4-xenial-shopping-list-app
