@@ -19,6 +19,10 @@ EXPOSE 8080
 WORKDIR /opt/ShoppingList/Sources
 COPY Sources/ .
 
+# Copy tests
+WORKDIR /opt/ShoppingList/Tests
+COPY Tests/ .
+
 WORKDIR /opt/ShoppingList
 COPY Package.swift .
 
